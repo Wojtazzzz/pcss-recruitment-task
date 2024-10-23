@@ -1,5 +1,5 @@
-import { HomePage } from './components/pages/home-page.tsx';
+import { DocsPage } from './components/modules/docs/docs-page.tsx';
 
 export const App = () => {
-	return <HomePage />;
+	return <DocsPage />;
 };
