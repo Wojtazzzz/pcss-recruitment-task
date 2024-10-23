@@ -1,8 +1,17 @@
-import exampleData from '../../../assets/exampleData.json';
+import exampleData from '../../../../assets/exampleData.json';
+
+type RawDoc = typeof exampleData['response']['docs'][number];
+
+export type Doc = {
+	id: RawDoc['id'];
+	creator: RawDoc['dc_creator'];
+	document_type: RawDoc['tech_type'];
+	title: RawDoc['dc_title'];
+}
 
 export class DocsDal extends null
 {
-	static docs: typeof exampleData['response']['docs'];
+	static docs: RawDoc[];
 
 	/* Step 1 */
 	static {
