@@ -1,0 +1,2289 @@
+{
+	"responseHeader": {
+		"status": 0,
+		"QTime": 132,
+		"params": {
+			"f.dcterms_license.facet.mincount": "1",
+			"json.wrf": "jQuery111202898325501526855_1667569648171",
+			"f.europeana_dataProvider.facet.limit": "-1",
+			"facet": "true",
+			"stats": "true",
+			"f.dcterms_accessRights.facet.mincount": "1",
+			"wt": "json",
+			"f.europeana_dataProvider.facet.sort": "count",
+			"rows": "30",
+			"f.dc_language.facet.mincount": "1",
+			"q": "anna",
+			"stats.field": "date",
+			"f.europeana_dataProvider.facet.mincount": "1",
+			"_": "1667569648172",
+			"facet.field": [
+				"{!ex=dcterms_license}dcterms_license",
+				"{!ex=europeana_dataProvider}europeana_dataProvider",
+				"{!ex=tech_type}tech_type",
+				"{!ex=dc_language}dc_language",
+				"{!ex=dcterms_accessRights}dcterms_accessRights"
+			],
+			"fq": "{!tag=dcterms_accessRights}dcterms_accessRights:\"Dostęp otwarty\"",
+			"f.tech_type.facet.mincount": "1"
+		}
+	},
+	"response": {
+		"numFound": 66781,
+		"start": 0,
+		"maxScore": 8.501872,
+		"docs": [
+			{
+				"tech_type": "rękopis",
+				"dc_format": [
+					"image/vnd.djvu"
+				],
+				"dc_language": [
+					"pol",
+					"lat"
+				],
+				"tech_objectId": "oai:www.wbc.poznan.pl:253917",
+				"tech_sourceId": "http://www.wbc.poznan.pl/dlibra/oai-pmh-repository.xml",
+				"dc_subject": [
+					"warsztat naukowy historyka",
+					"Kazimierz Jasiński (1920-1997)",
+					"historia Polski średniowiecze"
+				],
+				"europeana_rights": "http://www.europeana.eu/rights/rr-f/",
+				"id": "nndchbr",
+				"dc_title": [
+					"Anna"
+				],
+				"tech_sourceObjectAppearanceDate": "2019-12-17T12:23:47.904Z",
+				"europeana_dataProvider": "Wielkopolska Biblioteka Cyfrowa",
+				"dc_creator": [
+					"Jasiński, Kazimierz (1920 - 1997)"
+				],
+				"tech_plannedPublication": false,
+				"plmet_digitisation": [
+					"PAN Biblioteka Kórnicka"
+				],
+				"dc_rights": [
+					"PAN Biblioteka Kórnicka",
+					"Jasiński, Tomasz",
+					"wszystkie prawa zastrzeżone",
+					"dla wszystkich w zakresie dozwolonego użytku",
+					"udostępnianie na podstawie umowy z właścicielem majątkowych praw autorskich"
+				],
+				"tech_modificationInDataSourceDate": "2020-03-03T12:05:33.383Z",
+				"dcterms_accessRights": "Dostęp otwarty",
+				"plmet_locationOfPhysicalObject": [
+					"PAN Biblioteka Kórnicka"
+				],
+				"dcterms_license": "http://rightsstatements.org/vocab/InC/1.0/",
+				"europeana_type": "TEXT",
+				"dcterms_alternative": [
+					"T. II"
+				],
+				"dc_description": [
+					"z księgozbioru profesora Tomasza Jasińskiego"
+				],
+				"tech_url": "http://www.wbc.poznan.pl/dlibra/doccontent?id=253917",
+				"tech_lastUpdateDate": "2020-03-03T12:05:33.383Z",
+				"dcterms_rightsHolder": [
+					"Jasiński, Tomasz",
+					"PAN Biblioteka Kórnicka"
+				],
+				"dc_type": [
+					"fiszka"
+				],
+				"tech_dateOfIndexing": "2020-03-03T12:05:33.494Z",
+				"score": 8.501872
+			},
+			{
+				"tech_type": "rękopis",
+				"dc_format": [
+					"image/vnd.djvu"
+				],
+				"dc_language": [
+					"pol",
+					"lat"
+				],
+				"tech_objectId": "oai:www.wbc.poznan.pl:254587",
+				"tech_sourceId": "http://www.wbc.poznan.pl/dlibra/oai-pmh-repository.xml",
+				"dc_subject": [
+					"warsztat naukowy historyka",
+					"Kazimierz Jasiński (1920-1997)",
+					"historia Polski średniowiecze"
+				],
+				"europeana_rights": "http://www.europeana.eu/rights/rr-f/",
+				"id": "nndcf65",
+				"dc_title": [
+					"Anna"
+				],
+				"tech_sourceObjectAppearanceDate": "2019-12-17T12:23:54.091Z",
+				"europeana_dataProvider": "Wielkopolska Biblioteka Cyfrowa",
+				"dc_creator": [
+					"Jasiński, Kazimierz (1920 - 1997)"
+				],
+				"tech_plannedPublication": false,
+				"plmet_digitisation": [
+					"PAN Biblioteka Kórnicka"
+				],
+				"dc_rights": [
+					"PAN Biblioteka Kórnicka",
+					"Jasiński, Tomasz",
+					"wszystkie prawa zastrzeżone",
+					"dla wszystkich w zakresie dozwolonego użytku",
+					"udostępnianie na podstawie umowy z właścicielem majątkowych praw autorskich"
+				],
+				"tech_modificationInDataSourceDate": "2020-03-03T12:05:37.069Z",
+				"dcterms_accessRights": "Dostęp otwarty",
+				"plmet_locationOfPhysicalObject": [
+					"PAN Biblioteka Kórnicka"
+				],
+				"dcterms_license": "http://rightsstatements.org/vocab/InC/1.0/",
+				"europeana_type": "TEXT",
+				"dc_description": [
+					"z księgozbioru profesora Tomasza Jasińskiego"
+				],
+				"tech_url": "http://www.wbc.poznan.pl/dlibra/doccontent?id=254587",
+				"tech_lastUpdateDate": "2020-03-03T12:05:37.069Z",
+				"dcterms_rightsHolder": [
+					"Jasiński, Tomasz",
+					"PAN Biblioteka Kórnicka"
+				],
+				"dc_type": [
+					"fiszka"
+				],
+				"tech_dateOfIndexing": "2020-03-03T12:05:37.206Z",
+				"score": 8.501872
+			},
+			{
+				"tech_type": "rękopis",
+				"dc_format": [
+					"image/vnd.djvu"
+				],
+				"dc_language": [
+					"pol",
+					"lat"
+				],
+				"tech_objectId": "oai:www.wbc.poznan.pl:255169",
+				"tech_sourceId": "http://www.wbc.poznan.pl/dlibra/oai-pmh-repository.xml",
+				"dc_subject": [
+					"warsztat naukowy historyka",
+					"Kazimierz Jasiński (1920-1997)",
+					"historia Polski średniowiecze"
+				],
+				"europeana_rights": "http://www.europeana.eu/rights/rr-f/",
+				"id": "nndc1WZ",
+				"dc_title": [
+					"Anna"
+				],
+				"tech_sourceObjectAppearanceDate": "2019-12-17T12:24:19.184Z",
+				"europeana_dataProvider": "Wielkopolska Biblioteka Cyfrowa",
+				"dc_creator": [
+					"Jasiński, Kazimierz (1920 - 1997)"
+				],
+				"tech_plannedPublication": false,
+				"plmet_digitisation": [
+					"PAN Biblioteka Kórnicka"
+				],
+				"dc_rights": [
+					"PAN Biblioteka Kórnicka",
+					"Jasiński, Tomasz",
+					"wszystkie prawa zastrzeżone",
+					"dla wszystkich w zakresie dozwolonego użytku",
+					"udostępnianie na podstawie umowy z właścicielem majątkowych praw autorskich"
+				],
+				"tech_modificationInDataSourceDate": "2020-03-03T12:06:01.396Z",
+				"dcterms_accessRights": "Dostęp otwarty",
+				"plmet_locationOfPhysicalObject": [
+					"PAN Biblioteka Kórnicka"
+				],
+				"dcterms_license": "http://rightsstatements.org/vocab/InC/1.0/",
+				"europeana_type": "TEXT",
+				"dcterms_alternative": [
+					"T. II"
+				],
+				"dc_description": [
+					"z księgozbioru profesora Tomasza Jasińskiego"
+				],
+				"tech_url": "http://www.wbc.poznan.pl/dlibra/doccontent?id=255169",
+				"tech_lastUpdateDate": "2020-03-03T12:06:01.396Z",
+				"dcterms_rightsHolder": [
+					"Jasiński, Tomasz",
+					"PAN Biblioteka Kórnicka"
+				],
+				"dc_type": [
+					"fiszka"
+				],
+				"tech_dateOfIndexing": "2020-03-03T12:06:01.503Z",
+				"score": 8.501872
+			},
+			{
+				"tech_type": "rękopis",
+				"dc_format": [
+					"image/vnd.djvu"
+				],
+				"dc_language": [
+					"pol",
+					"lat"
+				],
+				"tech_objectId": "oai:www.wbc.poznan.pl:253674",
+				"tech_sourceId": "http://www.wbc.poznan.pl/dlibra/oai-pmh-repository.xml",
+				"dc_subject": [
+					"warsztat naukowy historyka",
+					"Kazimierz Jasiński (1920-1997)",
+					"historia Polski średniowiecze",
+					"Piastowie wrocławscy",
+					"piastowie legnicko-brzescy"
+				],
+				"europeana_rights": "http://www.europeana.eu/rights/rr-f/",
+				"id": "nnfdcRc",
+				"dc_title": [
+					"Anna"
+				],
+				"tech_sourceObjectAppearanceDate": "2019-12-17T12:24:33.886Z",
+				"europeana_dataProvider": "Wielkopolska Biblioteka Cyfrowa",
+				"dc_creator": [
+					"Jasiński, Kazimierz (1920 - 1997)"
+				],
+				"tech_plannedPublication": false,
+				"plmet_digitisation": [
+					"PAN Biblioteka Kórnicka"
+				],
+				"dc_rights": [
+					"PAN Biblioteka Kórnicka",
+					"Jasiński, Tomasz",
+					"wszystkie prawa zastrzeżone",
+					"dla wszystkich w zakresie dozwolonego użytku",
+					"udostępnianie na podstawie umowy z właścicielem majątkowych praw autorskich"
+				],
+				"tech_modificationInDataSourceDate": "2020-03-03T12:06:10.849Z",
+				"dcterms_accessRights": "Dostęp otwarty",
+				"plmet_locationOfPhysicalObject": [
+					"PAN Biblioteka Kórnicka"
+				],
+				"dcterms_license": "http://rightsstatements.org/vocab/InC/1.0/",
+				"europeana_type": "TEXT",
+				"dcterms_alternative": [
+					"T.1"
+				],
+				"dc_description": [
+					"z księgozbioru profesora Tomasza Jasińskiego"
+				],
+				"tech_url": "http://www.wbc.poznan.pl/dlibra/doccontent?id=253674",
+				"tech_lastUpdateDate": "2020-03-03T12:06:10.849Z",
+				"dcterms_rightsHolder": [
+					"Jasiński, Tomasz",
+					"PAN Biblioteka Kórnicka"
+				],
+				"dc_type": [
+					"fiszka"
+				],
+				"tech_dateOfIndexing": "2020-03-03T12:06:10.958Z",
+				"score": 8.501872
+			},
+			{
+				"tech_type": "rękopis",
+				"dc_format": [
+					"image/vnd.djvu"
+				],
+				"dc_language": [
+					"pol",
+					"lat"
+				],
+				"tech_objectId": "oai:www.wbc.poznan.pl:253897",
+				"tech_sourceId": "http://www.wbc.poznan.pl/dlibra/oai-pmh-repository.xml",
+				"dc_subject": [
+					"warsztat naukowy historyka",
+					"Kazimierz Jasiński (1920-1997)",
+					"historia Polski średniowiecze"
+				],
+				"europeana_rights": "http://www.europeana.eu/rights/rr-f/",
+				"id": "nndchWb",
+				"dc_title": [
+					"Anna"
+				],
+				"tech_sourceObjectAppearanceDate": "2019-12-17T12:24:33.751Z",
+				"europeana_dataProvider": "Wielkopolska Biblioteka Cyfrowa",
+				"dc_creator": [
+					"Jasiński, Kazimierz (1920 - 1997)"
+				],
+				"tech_plannedPublication": false,
+				"plmet_digitisation": [
+					"PAN Biblioteka Kórnicka"
+				],
+				"dc_rights": [
+					"PAN Biblioteka Kórnicka",
+					"Jasiński, Tomasz",
+					"wszystkie prawa zastrzeżone",
+					"dla wszystkich w zakresie dozwolonego użytku",
+					"udostępnianie na podstawie umowy z właścicielem majątkowych praw autorskich"
+				],
+				"tech_modificationInDataSourceDate": "2020-03-03T12:06:11.101Z",
+				"dcterms_accessRights": "Dostęp otwarty",
+				"plmet_locationOfPhysicalObject": [
+					"PAN Biblioteka Kórnicka"
+				],
+				"dcterms_license": "http://rightsstatements.org/vocab/InC/1.0/",
+				"europeana_type": "TEXT",
+				"dcterms_alternative": [
+					"T. II"
+				],
+				"dc_description": [
+					"z księgozbioru profesora Tomasza Jasińskiego"
+				],
+				"tech_url": "http://www.wbc.poznan.pl/dlibra/doccontent?id=253897",
+				"tech_lastUpdateDate": "2020-03-03T12:06:11.099Z",
+				"dcterms_rightsHolder": [
+					"Jasiński, Tomasz",
+					"PAN Biblioteka Kórnicka"
+				],
+				"dc_type": [
+					"fiszka"
+				],
+				"tech_dateOfIndexing": "2020-03-03T12:06:11.186Z",
+				"score": 8.501872
+			},
+			{
+				"tech_type": "rękopis",
+				"dc_format": [
+					"image/vnd.djvu"
+				],
+				"dc_language": [
+					"pol",
+					"lat"
+				],
+				"tech_objectId": "oai:www.wbc.poznan.pl:253886",
+				"tech_sourceId": "http://www.wbc.poznan.pl/dlibra/oai-pmh-repository.xml",
+				"dc_subject": [
+					"warsztat naukowy historyka",
+					"Kazimierz Jasiński (1920-1997)",
+					"historia Polski średniowiecze"
+				],
+				"europeana_rights": "http://www.europeana.eu/rights/rr-f/",
+				"id": "nndchcw",
+				"dc_title": [
+					"Anna"
+				],
+				"tech_sourceObjectAppearanceDate": "2019-12-17T12:24:34.696Z",
+				"europeana_dataProvider": "Wielkopolska Biblioteka Cyfrowa",
+				"dc_creator": [
+					"Jasiński, Kazimierz (1920 - 1997)"
+				],
+				"tech_plannedPublication": false,
+				"plmet_digitisation": [
+					"PAN Biblioteka Kórnicka"
+				],
+				"dc_rights": [
+					"PAN Biblioteka Kórnicka",
+					"Jasiński, Tomasz",
+					"wszystkie prawa zastrzeżone",
+					"dla wszystkich w zakresie dozwolonego użytku",
+					"udostępnianie na podstawie umowy z właścicielem majątkowych praw autorskich"
+				],
+				"tech_modificationInDataSourceDate": "2020-03-03T12:06:11.397Z",
+				"dcterms_accessRights": "Dostęp otwarty",
+				"plmet_locationOfPhysicalObject": [
+					"PAN Biblioteka Kórnicka"
+				],
+				"dcterms_license": "http://rightsstatements.org/vocab/InC/1.0/",
+				"europeana_type": "TEXT",
+				"dcterms_alternative": [
+					"T. II"
+				],
+				"dc_description": [
+					"z księgozbioru profesora Tomasza Jasińskiego"
+				],
+				"tech_url": "http://www.wbc.poznan.pl/dlibra/doccontent?id=253886",
+				"tech_lastUpdateDate": "2020-03-03T12:06:11.397Z",
+				"dcterms_rightsHolder": [
+					"Jasiński, Tomasz",
+					"PAN Biblioteka Kórnicka"
+				],
+				"dc_type": [
+					"fiszka"
+				],
+				"tech_dateOfIndexing": "2020-03-03T12:06:11.484Z",
+				"score": 8.501872
+			},
+			{
+				"tech_type": "rękopis",
+				"dc_format": [
+					"image/vnd.djvu"
+				],
+				"dc_language": [
+					"pol",
+					"lat"
+				],
+				"tech_objectId": "oai:www.wbc.poznan.pl:255165",
+				"tech_sourceId": "http://www.wbc.poznan.pl/dlibra/oai-pmh-repository.xml",
+				"dc_subject": [
+					"warsztat naukowy historyka",
+					"Kazimierz Jasiński (1920-1997)",
+					"historia Polski średniowiecze"
+				],
+				"europeana_rights": "http://www.europeana.eu/rights/rr-f/",
+				"id": "nndc1bk",
+				"dc_title": [
+					"Anna"
+				],
+				"tech_sourceObjectAppearanceDate": "2019-12-17T12:24:33.047Z",
+				"europeana_dataProvider": "Wielkopolska Biblioteka Cyfrowa",
+				"dc_creator": [
+					"Jasiński, Kazimierz (1920 - 1997)"
+				],
+				"tech_plannedPublication": false,
+				"plmet_digitisation": [
+					"PAN Biblioteka Kórnicka"
+				],
+				"dc_rights": [
+					"PAN Biblioteka Kórnicka",
+					"Jasiński, Tomasz",
+					"wszystkie prawa zastrzeżone",
+					"dla wszystkich w zakresie dozwolonego użytku",
+					"udostępnianie na podstawie umowy z właścicielem majątkowych praw autorskich"
+				],
+				"tech_modificationInDataSourceDate": "2020-03-03T12:06:11.784Z",
+				"dcterms_accessRights": "Dostęp otwarty",
+				"plmet_locationOfPhysicalObject": [
+					"PAN Biblioteka Kórnicka"
+				],
+				"dcterms_license": "http://rightsstatements.org/vocab/InC/1.0/",
+				"europeana_type": "TEXT",
+				"dcterms_alternative": [
+					"T. II"
+				],
+				"dc_description": [
+					"z księgozbioru profesora Tomasza Jasińskiego"
+				],
+				"tech_url": "http://www.wbc.poznan.pl/dlibra/doccontent?id=255165",
+				"tech_lastUpdateDate": "2020-03-03T12:06:11.783Z",
+				"dcterms_rightsHolder": [
+					"Jasiński, Tomasz",
+					"PAN Biblioteka Kórnicka"
+				],
+				"dc_type": [
+					"fiszka"
+				],
+				"tech_dateOfIndexing": "2020-03-03T12:06:11.905Z",
+				"score": 8.501872
+			},
+			{
+				"tech_type": "rękopis",
+				"dc_format": [
+					"image/vnd.djvu"
+				],
+				"dc_language": [
+					"pol",
+					"lat"
+				],
+				"tech_objectId": "oai:www.wbc.poznan.pl:255151",
+				"tech_sourceId": "http://www.wbc.poznan.pl/dlibra/oai-pmh-repository.xml",
+				"dc_subject": [
+					"warsztat naukowy historyka",
+					"Kazimierz Jasiński (1920-1997)",
+					"historia Polski średniowiecze"
+				],
+				"europeana_rights": "http://www.europeana.eu/rights/rr-f/",
+				"id": "nndch5d",
+				"dc_title": [
+					"Anna"
+				],
+				"tech_sourceObjectAppearanceDate": "2019-12-17T12:24:40.926Z",
+				"europeana_dataProvider": "Wielkopolska Biblioteka Cyfrowa",
+				"dc_creator": [
+					"Jasiński, Kazimierz (1920 - 1997)"
+				],
+				"tech_plannedPublication": false,
+				"plmet_digitisation": [
+					"PAN Biblioteka Kórnicka"
+				],
+				"dc_rights": [
+					"PAN Biblioteka Kórnicka",
+					"Jasiński, Tomasz",
+					"wszystkie prawa zastrzeżone",
+					"dla wszystkich w zakresie dozwolonego użytku",
+					"udostępnianie na podstawie umowy z właścicielem majątkowych praw autorskich"
+				],
+				"tech_modificationInDataSourceDate": "2020-03-03T12:06:13.992Z",
+				"dcterms_accessRights": "Dostęp otwarty",
+				"plmet_locationOfPhysicalObject": [
+					"PAN Biblioteka Kórnicka"
+				],
+				"dcterms_license": "http://rightsstatements.org/vocab/InC/1.0/",
+				"europeana_type": "TEXT",
+				"dcterms_alternative": [
+					"T. II"
+				],
+				"dc_description": [
+					"z księgozbioru profesora Tomasza Jasińskiego"
+				],
+				"tech_url": "http://www.wbc.poznan.pl/dlibra/doccontent?id=255151",
+				"tech_lastUpdateDate": "2020-03-03T12:06:13.991Z",
+				"dcterms_rightsHolder": [
+					"Jasiński, Tomasz",
+					"PAN Biblioteka Kórnicka"
+				],
+				"dc_type": [
+					"fiszka"
+				],
+				"tech_dateOfIndexing": "2020-03-03T12:06:14.091Z",
+				"score": 8.501872
+			},
+			{
+				"tech_type": "rękopis",
+				"dc_format": [
+					"image/vnd.djvu"
+				],
+				"dc_language": [
+					"pol",
+					"lat"
+				],
+				"tech_objectId": "oai:www.wbc.poznan.pl:254313",
+				"tech_sourceId": "http://www.wbc.poznan.pl/dlibra/oai-pmh-repository.xml",
+				"dc_subject": [
+					"warsztat naukowy historyka",
+					"Kazimierz Jasiński (1920-1997)",
+					"historia Polski średniowiecze"
+				],
+				"europeana_rights": "http://www.europeana.eu/rights/rr-f/",
+				"id": "nndc2X5",
+				"dc_title": [
+					"Anna"
+				],
+				"tech_sourceObjectAppearanceDate": "2019-12-17T12:24:42.904Z",
+				"europeana_dataProvider": "Wielkopolska Biblioteka Cyfrowa",
+				"dc_creator": [
+					"Jasiński, Kazimierz (1920 - 1997)"
+				],
+				"tech_plannedPublication": false,
+				"plmet_digitisation": [
+					"PAN Biblioteka Kórnicka"
+				],
+				"dc_rights": [
+					"PAN Biblioteka Kórnicka",
+					"Jasiński, Tomasz",
+					"wszystkie prawa zastrzeżone",
+					"dla wszystkich w zakresie dozwolonego użytku",
+					"udostępnianie na podstawie umowy z właścicielem majątkowych praw autorskich"
+				],
+				"tech_modificationInDataSourceDate": "2020-03-03T12:06:15.637Z",
+				"dcterms_accessRights": "Dostęp otwarty",
+				"plmet_locationOfPhysicalObject": [
+					"PAN Biblioteka Kórnicka"
+				],
+				"dcterms_license": "http://rightsstatements.org/vocab/InC/1.0/",
+				"europeana_type": "TEXT",
+				"dcterms_alternative": [
+					"T. II"
+				],
+				"dc_description": [
+					"z księgozbioru profesora Tomasza Jasińskiego"
+				],
+				"tech_url": "http://www.wbc.poznan.pl/dlibra/doccontent?id=254313",
+				"tech_lastUpdateDate": "2020-03-03T12:06:15.637Z",
+				"dcterms_rightsHolder": [
+					"Jasiński, Tomasz",
+					"PAN Biblioteka Kórnicka"
+				],
+				"dc_type": [
+					"fiszka"
+				],
+				"tech_dateOfIndexing": "2020-03-03T12:06:15.811Z",
+				"score": 8.501872
+			},
+			{
+				"tech_type": "rękopis",
+				"dc_format": [
+					"image/vnd.djvu"
+				],
+				"dc_language": [
+					"pol",
+					"lat"
+				],
+				"tech_objectId": "oai:www.wbc.poznan.pl:253662",
+				"tech_sourceId": "http://www.wbc.poznan.pl/dlibra/oai-pmh-repository.xml",
+				"dc_subject": [
+					"warsztat naukowy historyka",
+					"Kazimierz Jasiński (1920-1997)",
+					"historia Polski średniowiecze",
+					"Piastowie wrocławscy",
+					"piastowie legnicko-brzescy"
+				],
+				"europeana_rights": "http://www.europeana.eu/rights/rr-f/",
+				"id": "nnfdcTk",
+				"dc_title": [
+					"Anna"
+				],
+				"tech_sourceObjectAppearanceDate": "2019-12-17T12:24:48.816Z",
+				"europeana_dataProvider": "Wielkopolska Biblioteka Cyfrowa",
+				"dc_creator": [
+					"Jasiński, Kazimierz (1920 - 1997)"
+				],
+				"tech_plannedPublication": false,
+				"plmet_digitisation": [
+					"PAN Biblioteka Kórnicka"
+				],
+				"dc_rights": [
+					"PAN Biblioteka Kórnicka",
+					"Jasiński, Tomasz",
+					"wszystkie prawa zastrzeżone",
+					"dla wszystkich w zakresie dozwolonego użytku",
+					"udostępnianie na podstawie umowy z właścicielem majątkowych praw autorskich"
+				],
+				"tech_modificationInDataSourceDate": "2020-03-03T12:06:17.294Z",
+				"dcterms_accessRights": "Dostęp otwarty",
+				"plmet_locationOfPhysicalObject": [
+					"PAN Biblioteka Kórnicka"
+				],
+				"dcterms_license": "http://rightsstatements.org/vocab/InC/1.0/",
+				"europeana_type": "TEXT",
+				"dcterms_alternative": [
+					"T.1"
+				],
+				"dc_description": [
+					"z księgozbioru profesora Tomasza Jasińskiego"
+				],
+				"tech_url": "http://www.wbc.poznan.pl/dlibra/doccontent?id=253662",
+				"tech_lastUpdateDate": "2020-03-03T12:06:17.294Z",
+				"dcterms_rightsHolder": [
+					"Jasiński, Tomasz",
+					"PAN Biblioteka Kórnicka"
+				],
+				"dc_type": [
+					"fiszka"
+				],
+				"tech_dateOfIndexing": "2020-03-03T12:06:17.618Z",
+				"score": 8.501872
+			},
+			{
+				"tech_type": "rękopis",
+				"dc_format": [
+					"image/vnd.djvu"
+				],
+				"dc_language": [
+					"pol",
+					"lat"
+				],
+				"tech_objectId": "oai:www.wbc.poznan.pl:254594",
+				"tech_sourceId": "http://www.wbc.poznan.pl/dlibra/oai-pmh-repository.xml",
+				"dc_subject": [
+					"warsztat naukowy historyka",
+					"Kazimierz Jasiński (1920-1997)",
+					"historia Polski średniowiecze"
+				],
+				"europeana_rights": "http://www.europeana.eu/rights/rr-f/",
+				"id": "nndcfWm",
+				"dc_title": [
+					"Anna"
+				],
+				"tech_sourceObjectAppearanceDate": "2019-12-17T12:24:48.978Z",
+				"europeana_dataProvider": "Wielkopolska Biblioteka Cyfrowa",
+				"dc_creator": [
+					"Jasiński, Kazimierz (1920 - 1997)"
+				],
+				"tech_plannedPublication": false,
+				"plmet_digitisation": [
+					"PAN Biblioteka Kórnicka"
+				],
+				"dc_rights": [
+					"PAN Biblioteka Kórnicka",
+					"Jasiński, Tomasz",
+					"wszystkie prawa zastrzeżone",
+					"dla wszystkich w zakresie dozwolonego użytku",
+					"udostępnianie na podstawie umowy z właścicielem majątkowych praw autorskich"
+				],
+				"tech_modificationInDataSourceDate": "2020-03-03T12:06:19.239Z",
+				"dcterms_accessRights": "Dostęp otwarty",
+				"plmet_locationOfPhysicalObject": [
+					"PAN Biblioteka Kórnicka"
+				],
+				"dcterms_license": "http://rightsstatements.org/vocab/InC/1.0/",
+				"europeana_type": "TEXT",
+				"dc_description": [
+					"z księgozbioru profesora Tomasza Jasińskiego"
+				],
+				"tech_url": "http://www.wbc.poznan.pl/dlibra/doccontent?id=254594",
+				"tech_lastUpdateDate": "2020-03-03T12:06:19.238Z",
+				"dcterms_rightsHolder": [
+					"Jasiński, Tomasz",
+					"PAN Biblioteka Kórnicka"
+				],
+				"dc_type": [
+					"fiszka"
+				],
+				"tech_dateOfIndexing": "2020-03-03T12:06:19.347Z",
+				"score": 8.501872
+			},
+			{
+				"tech_type": "rękopis",
+				"dc_format": [
+					"image/vnd.djvu"
+				],
+				"dc_language": [
+					"pol",
+					"lat"
+				],
+				"tech_objectId": "oai:www.wbc.poznan.pl:253707",
+				"tech_sourceId": "http://www.wbc.poznan.pl/dlibra/oai-pmh-repository.xml",
+				"dc_subject": [
+					"warsztat naukowy historyka",
+					"Kazimierz Jasiński (1920-1997)",
+					"historia Polski średniowiecze",
+					"Piastowie wrocławscy",
+					"piastowie legnicko-brzescy"
+				],
+				"europeana_rights": "http://www.europeana.eu/rights/rr-f/",
+				"id": "nnfdczW",
+				"dc_title": [
+					"Anna"
+				],
+				"tech_sourceObjectAppearanceDate": "2019-12-17T12:24:52.872Z",
+				"europeana_dataProvider": "Wielkopolska Biblioteka Cyfrowa",
+				"dc_creator": [
+					"Jasiński, Kazimierz (1920 - 1997)"
+				],
+				"tech_plannedPublication": false,
+				"plmet_digitisation": [
+					"PAN Biblioteka Kórnicka"
+				],
+				"dc_rights": [
+					"PAN Biblioteka Kórnicka",
+					"Jasiński, Tomasz",
+					"wszystkie prawa zastrzeżone",
+					"dla wszystkich w zakresie dozwolonego użytku",
+					"udostępnianie na podstawie umowy z właścicielem majątkowych praw autorskich"
+				],
+				"tech_modificationInDataSourceDate": "2020-03-03T12:06:21.977Z",
+				"dcterms_accessRights": "Dostęp otwarty",
+				"plmet_locationOfPhysicalObject": [
+					"PAN Biblioteka Kórnicka"
+				],
+				"dcterms_license": "http://rightsstatements.org/vocab/InC/1.0/",
+				"europeana_type": "TEXT",
+				"dcterms_alternative": [
+					"T.1"
+				],
+				"dc_description": [
+					"z księgozbioru profesora Tomasza Jasińskiego"
+				],
+				"tech_url": "http://www.wbc.poznan.pl/dlibra/doccontent?id=253707",
+				"tech_lastUpdateDate": "2020-03-03T12:06:21.977Z",
+				"dcterms_rightsHolder": [
+					"Jasiński, Tomasz",
+					"PAN Biblioteka Kórnicka"
+				],
+				"dc_type": [
+					"fiszka"
+				],
+				"tech_dateOfIndexing": "2020-03-03T12:06:22.043Z",
+				"score": 8.501872
+			},
+			{
+				"tech_type": "rękopis",
+				"dc_format": [
+					"image/vnd.djvu"
+				],
+				"dc_language": [
+					"pol",
+					"lat"
+				],
+				"tech_objectId": "oai:www.wbc.poznan.pl:253911",
+				"tech_sourceId": "http://www.wbc.poznan.pl/dlibra/oai-pmh-repository.xml",
+				"dc_subject": [
+					"warsztat naukowy historyka",
+					"Kazimierz Jasiński (1920-1997)",
+					"historia Polski średniowiecze"
+				],
+				"europeana_rights": "http://www.europeana.eu/rights/rr-f/",
+				"id": "nndch9r",
+				"dc_title": [
+					"Anna"
+				],
+				"tech_sourceObjectAppearanceDate": "2019-12-17T12:25:00.522Z",
+				"europeana_dataProvider": "Wielkopolska Biblioteka Cyfrowa",
+				"dc_creator": [
+					"Jasiński, Kazimierz (1920 - 1997)"
+				],
+				"tech_plannedPublication": false,
+				"plmet_digitisation": [
+					"PAN Biblioteka Kórnicka"
+				],
+				"dc_rights": [
+					"PAN Biblioteka Kórnicka",
+					"Jasiński, Tomasz",
+					"wszystkie prawa zastrzeżone",
+					"dla wszystkich w zakresie dozwolonego użytku",
+					"udostępnianie na podstawie umowy z właścicielem majątkowych praw autorskich"
+				],
+				"tech_modificationInDataSourceDate": "2020-03-03T12:06:25.711Z",
+				"dcterms_accessRights": "Dostęp otwarty",
+				"plmet_locationOfPhysicalObject": [
+					"PAN Biblioteka Kórnicka"
+				],
+				"dcterms_license": "http://rightsstatements.org/vocab/InC/1.0/",
+				"europeana_type": "TEXT",
+				"dcterms_alternative": [
+					"T. II"
+				],
+				"dc_description": [
+					"z księgozbioru profesora Tomasza Jasińskiego"
+				],
+				"tech_url": "http://www.wbc.poznan.pl/dlibra/doccontent?id=253911",
+				"tech_lastUpdateDate": "2020-03-03T12:06:25.711Z",
+				"dcterms_rightsHolder": [
+					"Jasiński, Tomasz",
+					"PAN Biblioteka Kórnicka"
+				],
+				"dc_type": [
+					"fiszka"
+				],
+				"tech_dateOfIndexing": "2020-03-03T12:06:25.793Z",
+				"score": 8.501872
+			},
+			{
+				"tech_type": "rękopis",
+				"dc_format": [
+					"image/vnd.djvu"
+				],
+				"dc_language": [
+					"pol",
+					"lat"
+				],
+				"tech_objectId": "oai:www.wbc.poznan.pl:254599",
+				"tech_sourceId": "http://www.wbc.poznan.pl/dlibra/oai-pmh-repository.xml",
+				"dc_subject": [
+					"warsztat naukowy historyka",
+					"Kazimierz Jasiński (1920-1997)",
+					"historia Polski średniowiecze"
+				],
+				"europeana_rights": "http://www.europeana.eu/rights/rr-f/",
+				"id": "nndcf9z",
+				"dc_title": [
+					"Anna"
+				],
+				"tech_sourceObjectAppearanceDate": "2019-12-17T12:24:59.072Z",
+				"europeana_dataProvider": "Wielkopolska Biblioteka Cyfrowa",
+				"dc_creator": [
+					"Jasiński, Kazimierz (1920 - 1997)"
+				],
+				"tech_plannedPublication": false,
+				"plmet_digitisation": [
+					"PAN Biblioteka Kórnicka"
+				],
+				"dc_rights": [
+					"PAN Biblioteka Kórnicka",
+					"Jasiński, Tomasz",
+					"wszystkie prawa zastrzeżone",
+					"dla wszystkich w zakresie dozwolonego użytku",
+					"udostępnianie na podstawie umowy z właścicielem majątkowych praw autorskich"
+				],
+				"tech_modificationInDataSourceDate": "2020-03-03T12:06:27.438Z",
+				"dcterms_accessRights": "Dostęp otwarty",
+				"plmet_locationOfPhysicalObject": [
+					"PAN Biblioteka Kórnicka"
+				],
+				"dcterms_license": "http://rightsstatements.org/vocab/InC/1.0/",
+				"europeana_type": "TEXT",
+				"dc_description": [
+					"z księgozbioru profesora Tomasza Jasińskiego"
+				],
+				"tech_url": "http://www.wbc.poznan.pl/dlibra/doccontent?id=254599",
+				"tech_lastUpdateDate": "2020-03-03T12:06:27.438Z",
+				"dcterms_rightsHolder": [
+					"Jasiński, Tomasz",
+					"PAN Biblioteka Kórnicka"
+				],
+				"dc_type": [
+					"fiszka"
+				],
+				"tech_dateOfIndexing": "2020-03-03T12:06:27.58Z",
+				"score": 8.501872
+			},
+			{
+				"tech_type": "rękopis",
+				"dc_format": [
+					"image/vnd.djvu"
+				],
+				"dc_language": [
+					"pol",
+					"lat"
+				],
+				"tech_objectId": "oai:www.wbc.poznan.pl:280743",
+				"tech_sourceId": "http://www.wbc.poznan.pl/dlibra/oai-pmh-repository.xml",
+				"dc_subject": [
+					"warsztat naukowy historyka",
+					"Kazimierz Jasiński (1920-1997)",
+					"historia Polski średniowiecze"
+				],
+				"europeana_rights": "http://www.europeana.eu/rights/rr-f/",
+				"id": "nnwpR9x",
+				"dc_title": [
+					"Anna"
+				],
+				"tech_sourceObjectAppearanceDate": "2019-12-17T12:36:30.175Z",
+				"europeana_dataProvider": "Wielkopolska Biblioteka Cyfrowa",
+				"dc_creator": [
+					"Jasiński, Kazimierz (1920 - 1997)"
+				],
+				"tech_plannedPublication": false,
+				"plmet_digitisation": [
+					"PAN Biblioteka Kórnicka"
+				],
+				"dc_rights": [
+					"PAN Biblioteka Kórnicka",
+					"Jasiński, Tomasz",
+					"wszystkie prawa zastrzeżone",
+					"dla wszystkich w zakresie dozwolonego użytku",
+					"udostępnianie na podstawie umowy z właścicielem majątkowych praw autorskich"
+				],
+				"tech_modificationInDataSourceDate": "2020-03-03T12:11:28.462Z",
+				"dcterms_accessRights": "Dostęp otwarty",
+				"plmet_locationOfPhysicalObject": [
+					"PAN Biblioteka Kórnicka"
+				],
+				"dcterms_license": "http://rightsstatements.org/vocab/InC/1.0/",
+				"europeana_type": "TEXT",
+				"dc_description": [
+					"z księgozbioru profesora Tomasza Jasińskiego"
+				],
+				"tech_url": "http://www.wbc.poznan.pl/dlibra/doccontent?id=280743",
+				"tech_lastUpdateDate": "2020-03-03T12:11:28.462Z",
+				"dcterms_rightsHolder": [
+					"PAN Biblioteka Kórnicka",
+					"Jasiński, Tomasz"
+				],
+				"dc_type": [
+					"fiszka"
+				],
+				"tech_dateOfIndexing": "2020-03-03T12:11:28.918Z",
+				"score": 8.501872
+			},
+			{
+				"tech_type": "rękopis",
+				"dc_format": [
+					"image/vnd.djvu"
+				],
+				"dc_language": [
+					"pol",
+					"lat"
+				],
+				"tech_objectId": "oai:www.wbc.poznan.pl:280599",
+				"tech_sourceId": "http://www.wbc.poznan.pl/dlibra/oai-pmh-repository.xml",
+				"dc_subject": [
+					"warsztat naukowy historyka",
+					"Kazimierz Jasiński (1920-1997)",
+					"historia Polski średniowiecze"
+				],
+				"europeana_rights": "http://www.europeana.eu/rights/rr-f/",
+				"id": "nnwp0ml",
+				"dc_title": [
+					"Anna"
+				],
+				"tech_sourceObjectAppearanceDate": "2019-12-17T12:36:36.248Z",
+				"europeana_dataProvider": "Wielkopolska Biblioteka Cyfrowa",
+				"dc_creator": [
+					"Jasiński, Kazimierz (1920 - 1997)"
+				],
+				"tech_plannedPublication": false,
+				"plmet_digitisation": [
+					"PAN Biblioteka Kórnicka"
+				],
+				"dc_rights": [
+					"PAN Biblioteka Kórnicka",
+					"Jasiński, Tomasz",
+					"wszystkie prawa zastrzeżone",
+					"dla wszystkich w zakresie dozwolonego użytku",
+					"udostępnianie na podstawie umowy z właścicielem majątkowych praw autorskich"
+				],
+				"tech_modificationInDataSourceDate": "2020-03-03T12:11:32.097Z",
+				"dcterms_accessRights": "Dostęp otwarty",
+				"plmet_locationOfPhysicalObject": [
+					"PAN Biblioteka Kórnicka"
+				],
+				"dcterms_license": "http://rightsstatements.org/vocab/InC/1.0/",
+				"europeana_type": "TEXT",
+				"dc_description": [
+					"z księgozbioru profesora Tomasza Jasińskiego"
+				],
+				"tech_url": "http://www.wbc.poznan.pl/dlibra/doccontent?id=280599",
+				"tech_lastUpdateDate": "2020-03-03T12:11:32.097Z",
+				"dcterms_rightsHolder": [
+					"PAN Biblioteka Kórnicka",
+					"Jasiński, Tomasz"
+				],
+				"dc_type": [
+					"fiszka"
+				],
+				"tech_dateOfIndexing": "2020-03-03T12:11:32.273Z",
+				"score": 8.501872
+			},
+			{
+				"tech_type": "rękopis",
+				"dc_format": [
+					"image/vnd.djvu"
+				],
+				"dc_language": [
+					"pol",
+					"lat"
+				],
+				"tech_objectId": "oai:www.wbc.poznan.pl:280571",
+				"tech_sourceId": "http://www.wbc.poznan.pl/dlibra/oai-pmh-repository.xml",
+				"dc_subject": [
+					"warsztat naukowy historyka",
+					"Kazimierz Jasiński (1920-1997)",
+					"historia Polski średniowiecze"
+				],
+				"europeana_rights": "http://www.europeana.eu/rights/rr-f/",
+				"id": "nnwp07k",
+				"dc_title": [
+					"Anna"
+				],
+				"tech_sourceObjectAppearanceDate": "2019-12-17T12:36:35.147Z",
+				"europeana_dataProvider": "Wielkopolska Biblioteka Cyfrowa",
+				"dc_creator": [
+					"Jasiński, Kazimierz (1920 - 1997)"
+				],
+				"tech_plannedPublication": false,
+				"plmet_digitisation": [
+					"PAN Biblioteka Kórnicka"
+				],
+				"dc_rights": [
+					"PAN Biblioteka Kórnicka",
+					"Jasiński, Tomasz",
+					"wszystkie prawa zastrzeżone",
+					"dla wszystkich w zakresie dozwolonego użytku",
+					"udostępnianie na podstawie umowy z właścicielem majątkowych praw autorskich"
+				],
+				"tech_modificationInDataSourceDate": "2020-03-03T12:11:33.019Z",
+				"dcterms_accessRights": "Dostęp otwarty",
+				"plmet_locationOfPhysicalObject": [
+					"PAN Biblioteka Kórnicka"
+				],
+				"dcterms_license": "http://rightsstatements.org/vocab/InC/1.0/",
+				"europeana_type": "TEXT",
+				"dc_description": [
+					"z księgozbioru profesora Tomasza Jasińskiego"
+				],
+				"tech_url": "http://www.wbc.poznan.pl/dlibra/doccontent?id=280571",
+				"tech_lastUpdateDate": "2020-03-03T12:11:33.018Z",
+				"dcterms_rightsHolder": [
+					"PAN Biblioteka Kórnicka",
+					"Jasiński, Tomasz"
+				],
+				"dc_type": [
+					"fiszka"
+				],
+				"tech_dateOfIndexing": "2020-03-03T12:11:33.162Z",
+				"score": 8.501872
+			},
+			{
+				"tech_type": "rękopis",
+				"dc_format": [
+					"image/vnd.djvu"
+				],
+				"dc_language": [
+					"pol",
+					"lat"
+				],
+				"tech_objectId": "oai:www.wbc.poznan.pl:280583",
+				"tech_sourceId": "http://www.wbc.poznan.pl/dlibra/oai-pmh-repository.xml",
+				"dc_subject": [
+					"warsztat naukowy historyka",
+					"Kazimierz Jasiński (1920-1997)",
+					"historia Polski średniowiecze"
+				],
+				"europeana_rights": "http://www.europeana.eu/rights/rr-f/",
+				"id": "nnwp0w6",
+				"dc_title": [
+					"Anna"
+				],
+				"tech_sourceObjectAppearanceDate": "2019-12-17T12:36:39.938Z",
+				"europeana_dataProvider": "Wielkopolska Biblioteka Cyfrowa",
+				"dc_creator": [
+					"Jasiński, Kazimierz (1920 - 1997)"
+				],
+				"tech_plannedPublication": false,
+				"plmet_digitisation": [
+					"PAN Biblioteka Kórnicka"
+				],
+				"dc_rights": [
+					"PAN Biblioteka Kórnicka",
+					"Jasiński, Tomasz",
+					"wszystkie prawa zastrzeżone",
+					"dla wszystkich w zakresie dozwolonego użytku",
+					"udostępnianie na podstawie umowy z właścicielem majątkowych praw autorskich"
+				],
+				"tech_modificationInDataSourceDate": "2020-03-03T12:11:34.847Z",
+				"dcterms_accessRights": "Dostęp otwarty",
+				"plmet_locationOfPhysicalObject": [
+					"PAN Biblioteka Kórnicka"
+				],
+				"dcterms_license": "http://rightsstatements.org/vocab/InC/1.0/",
+				"europeana_type": "TEXT",
+				"dc_description": [
+					"z księgozbioru profesora Tomasza Jasińskiego"
+				],
+				"tech_url": "http://www.wbc.poznan.pl/dlibra/doccontent?id=280583",
+				"tech_lastUpdateDate": "2020-03-03T12:11:34.846Z",
+				"dcterms_rightsHolder": [
+					"PAN Biblioteka Kórnicka",
+					"Jasiński, Tomasz"
+				],
+				"dc_type": [
+					"fiszka"
+				],
+				"tech_dateOfIndexing": "2020-03-03T12:11:35.051Z",
+				"score": 8.501872
+			},
+			{
+				"tech_type": "rękopis",
+				"dc_format": [
+					"image/vnd.djvu"
+				],
+				"dc_language": [
+					"pol",
+					"lat"
+				],
+				"tech_objectId": "oai:www.wbc.poznan.pl:280559",
+				"tech_sourceId": "http://www.wbc.poznan.pl/dlibra/oai-pmh-repository.xml",
+				"dc_subject": [
+					"warsztat naukowy historyka",
+					"Kazimierz Jasiński (1920-1997)",
+					"historia Polski średniowiecze"
+				],
+				"europeana_rights": "http://www.europeana.eu/rights/rr-f/",
+				"id": "nnwp0bV",
+				"dc_title": [
+					"Anna"
+				],
+				"tech_sourceObjectAppearanceDate": "2019-12-17T12:36:38.437Z",
+				"europeana_dataProvider": "Wielkopolska Biblioteka Cyfrowa",
+				"dc_creator": [
+					"Jasiński, Kazimierz (1920 - 1997)"
+				],
+				"tech_plannedPublication": false,
+				"plmet_digitisation": [
+					"PAN Biblioteka Kórnicka"
+				],
+				"dc_rights": [
+					"PAN Biblioteka Kórnicka",
+					"Jasiński, Tomasz",
+					"wszystkie prawa zastrzeżone",
+					"dla wszystkich w zakresie dozwolonego użytku",
+					"udostępnianie na podstawie umowy z właścicielem majątkowych praw autorskich"
+				],
+				"tech_modificationInDataSourceDate": "2020-03-03T12:11:34.954Z",
+				"dcterms_accessRights": "Dostęp otwarty",
+				"plmet_locationOfPhysicalObject": [
+					"PAN Biblioteka Kórnicka"
+				],
+				"dcterms_license": "http://rightsstatements.org/vocab/InC/1.0/",
+				"europeana_type": "TEXT",
+				"dc_description": [
+					"z księgozbioru profesora Tomasza Jasińskiego"
+				],
+				"tech_url": "http://www.wbc.poznan.pl/dlibra/doccontent?id=280559",
+				"tech_lastUpdateDate": "2020-03-03T12:11:34.954Z",
+				"dcterms_rightsHolder": [
+					"PAN Biblioteka Kórnicka",
+					"Jasiński, Tomasz"
+				],
+				"dc_type": [
+					"fiszka"
+				],
+				"tech_dateOfIndexing": "2020-03-03T12:11:35.239Z",
+				"score": 8.501872
+			},
+			{
+				"tech_type": "rękopis",
+				"dc_format": [
+					"image/vnd.djvu"
+				],
+				"dc_language": [
+					"pol",
+					"lat"
+				],
+				"tech_objectId": "oai:www.wbc.poznan.pl:280705",
+				"tech_sourceId": "http://www.wbc.poznan.pl/dlibra/oai-pmh-repository.xml",
+				"dc_subject": [
+					"warsztat naukowy historyka",
+					"Kazimierz Jasiński (1920-1997)",
+					"historia Polski średniowiecze"
+				],
+				"europeana_rights": "http://www.europeana.eu/rights/rr-f/",
+				"id": "nnwpRcT",
+				"dc_title": [
+					"Anna"
+				],
+				"tech_sourceObjectAppearanceDate": "2019-12-17T12:36:54.9Z",
+				"europeana_dataProvider": "Wielkopolska Biblioteka Cyfrowa",
+				"dc_creator": [
+					"Jasiński, Kazimierz (1920 - 1997)"
+				],
+				"tech_plannedPublication": false,
+				"plmet_digitisation": [
+					"PAN Biblioteka Kórnicka"
+				],
+				"dc_rights": [
+					"PAN Biblioteka Kórnicka",
+					"Jasiński, Tomasz",
+					"wszystkie prawa zastrzeżone",
+					"dla wszystkich w zakresie dozwolonego użytku",
+					"udostępnianie na podstawie umowy z właścicielem majątkowych praw autorskich"
+				],
+				"tech_modificationInDataSourceDate": "2020-03-03T12:11:43.792Z",
+				"dcterms_accessRights": "Dostęp otwarty",
+				"plmet_locationOfPhysicalObject": [
+					"PAN Biblioteka Kórnicka"
+				],
+				"dcterms_license": "http://rightsstatements.org/vocab/InC/1.0/",
+				"europeana_type": "TEXT",
+				"dc_description": [
+					"z księgozbioru profesora Tomasza Jasińskiego"
+				],
+				"tech_url": "http://www.wbc.poznan.pl/dlibra/doccontent?id=280705",
+				"tech_lastUpdateDate": "2020-03-03T12:11:43.792Z",
+				"dcterms_rightsHolder": [
+					"PAN Biblioteka Kórnicka",
+					"Jasiński, Tomasz"
+				],
+				"dc_type": [
+					"fiszka"
+				],
+				"tech_dateOfIndexing": "2020-03-03T12:11:43.971Z",
+				"score": 8.501872
+			},
+			{
+				"tech_type": "rękopis",
+				"dc_format": [
+					"image/vnd.djvu"
+				],
+				"dc_language": [
+					"pol",
+					"lat"
+				],
+				"tech_objectId": "oai:www.wbc.poznan.pl:280654",
+				"tech_sourceId": "http://www.wbc.poznan.pl/dlibra/oai-pmh-repository.xml",
+				"dc_subject": [
+					"warsztat naukowy historyka",
+					"Kazimierz Jasiński (1920-1997)",
+					"historia Polski średniowiecze"
+				],
+				"europeana_rights": "http://www.europeana.eu/rights/rr-f/",
+				"id": "nnwp0Rm",
+				"dc_title": [
+					"Anna"
+				],
+				"tech_sourceObjectAppearanceDate": "2019-12-17T12:37:17.391Z",
+				"europeana_dataProvider": "Wielkopolska Biblioteka Cyfrowa",
+				"dc_creator": [
+					"Jasiński, Kazimierz (1920 - 1997)"
+				],
+				"tech_plannedPublication": false,
+				"plmet_digitisation": [
+					"PAN Biblioteka Kórnicka"
+				],
+				"dc_rights": [
+					"PAN Biblioteka Kórnicka",
+					"Jasiński, Tomasz",
+					"wszystkie prawa zastrzeżone",
+					"dla wszystkich w zakresie dozwolonego użytku",
+					"udostępnianie na podstawie umowy z właścicielem majątkowych praw autorskich"
+				],
+				"tech_modificationInDataSourceDate": "2020-03-03T12:11:53.738Z",
+				"dcterms_accessRights": "Dostęp otwarty",
+				"plmet_locationOfPhysicalObject": [
+					"PAN Biblioteka Kórnicka"
+				],
+				"dcterms_license": "http://rightsstatements.org/vocab/InC/1.0/",
+				"europeana_type": "TEXT",
+				"dc_description": [
+					"z księgozbioru profesora Tomasza Jasińskiego"
+				],
+				"tech_url": "http://www.wbc.poznan.pl/dlibra/doccontent?id=280654",
+				"tech_lastUpdateDate": "2020-03-03T12:11:53.738Z",
+				"dcterms_rightsHolder": [
+					"PAN Biblioteka Kórnicka",
+					"Jasiński, Tomasz"
+				],
+				"dc_type": [
+					"fiszka"
+				],
+				"tech_dateOfIndexing": "2020-03-03T12:11:53.816Z",
+				"score": 8.501872
+			},
+			{
+				"tech_type": "rękopis",
+				"dc_format": [
+					"image/vnd.djvu"
+				],
+				"dc_language": [
+					"pol",
+					"lat"
+				],
+				"tech_objectId": "oai:www.wbc.poznan.pl:280640",
+				"tech_sourceId": "http://www.wbc.poznan.pl/dlibra/oai-pmh-repository.xml",
+				"dc_subject": [
+					"warsztat naukowy historyka",
+					"Kazimierz Jasiński (1920-1997)",
+					"historia Polski średniowiecze"
+				],
+				"europeana_rights": "http://www.europeana.eu/rights/rr-f/",
+				"id": "nnwp0l0",
+				"dc_title": [
+					"Anna"
+				],
+				"tech_sourceObjectAppearanceDate": "2019-12-17T12:37:20.625Z",
+				"europeana_dataProvider": "Wielkopolska Biblioteka Cyfrowa",
+				"dc_creator": [
+					"Jasiński, Kazimierz (1920 - 1997)"
+				],
+				"tech_plannedPublication": false,
+				"plmet_digitisation": [
+					"PAN Biblioteka Kórnicka"
+				],
+				"dc_rights": [
+					"PAN Biblioteka Kórnicka",
+					"Jasiński, Tomasz",
+					"wszystkie prawa zastrzeżone",
+					"dla wszystkich w zakresie dozwolonego użytku",
+					"udostępnianie na podstawie umowy z właścicielem majątkowych praw autorskich"
+				],
+				"tech_modificationInDataSourceDate": "2020-03-03T12:11:56.837Z",
+				"dcterms_accessRights": "Dostęp otwarty",
+				"plmet_locationOfPhysicalObject": [
+					"PAN Biblioteka Kórnicka"
+				],
+				"dcterms_license": "http://rightsstatements.org/vocab/InC/1.0/",
+				"europeana_type": "TEXT",
+				"dc_description": [
+					"z księgozbioru profesora Tomasza Jasińskiego"
+				],
+				"tech_url": "http://www.wbc.poznan.pl/dlibra/doccontent?id=280640",
+				"tech_lastUpdateDate": "2020-03-03T12:11:56.837Z",
+				"dcterms_rightsHolder": [
+					"PAN Biblioteka Kórnicka",
+					"Jasiński, Tomasz"
+				],
+				"dc_type": [
+					"fiszka"
+				],
+				"tech_dateOfIndexing": "2020-03-03T12:11:56.945Z",
+				"score": 8.501872
+			},
+			{
+				"tech_type": "rękopis",
+				"dc_format": [
+					"image/vnd.djvu"
+				],
+				"dc_language": [
+					"pol",
+					"lat"
+				],
+				"tech_objectId": "oai:www.wbc.poznan.pl:280642",
+				"tech_sourceId": "http://www.wbc.poznan.pl/dlibra/oai-pmh-repository.xml",
+				"dc_subject": [
+					"warsztat naukowy historyka",
+					"Kazimierz Jasiński (1920-1997)",
+					"historia Polski średniowiecze"
+				],
+				"europeana_rights": "http://www.europeana.eu/rights/rr-f/",
+				"id": "nnwp0z6",
+				"dc_title": [
+					"Anna"
+				],
+				"tech_sourceObjectAppearanceDate": "2019-12-17T12:37:24.923Z",
+				"europeana_dataProvider": "Wielkopolska Biblioteka Cyfrowa",
+				"dc_creator": [
+					"Jasiński, Kazimierz (1920 - 1997)"
+				],
+				"tech_plannedPublication": false,
+				"plmet_digitisation": [
+					"PAN Biblioteka Kórnicka"
+				],
+				"dc_rights": [
+					"PAN Biblioteka Kórnicka",
+					"Jasiński, Tomasz",
+					"wszystkie prawa zastrzeżone",
+					"dla wszystkich w zakresie dozwolonego użytku",
+					"udostępnianie na podstawie umowy z właścicielem majątkowych praw autorskich"
+				],
+				"tech_modificationInDataSourceDate": "2020-03-03T12:11:59.206Z",
+				"dcterms_accessRights": "Dostęp otwarty",
+				"plmet_locationOfPhysicalObject": [
+					"PAN Biblioteka Kórnicka"
+				],
+				"dcterms_license": "http://rightsstatements.org/vocab/InC/1.0/",
+				"europeana_type": "TEXT",
+				"dc_description": [
+					"z księgozbioru profesora Tomasza Jasińskiego"
+				],
+				"tech_url": "http://www.wbc.poznan.pl/dlibra/doccontent?id=280642",
+				"tech_lastUpdateDate": "2020-03-03T12:11:59.205Z",
+				"dcterms_rightsHolder": [
+					"PAN Biblioteka Kórnicka",
+					"Jasiński, Tomasz"
+				],
+				"dc_type": [
+					"fiszka"
+				],
+				"tech_dateOfIndexing": "2020-03-03T12:11:59.282Z",
+				"score": 8.501872
+			},
+			{
+				"tech_type": "rękopis",
+				"dc_format": [
+					"image/vnd.djvu"
+				],
+				"dc_language": [
+					"pol",
+					"lat"
+				],
+				"tech_objectId": "oai:www.wbc.poznan.pl:280656",
+				"tech_sourceId": "http://www.wbc.poznan.pl/dlibra/oai-pmh-repository.xml",
+				"dc_subject": [
+					"warsztat naukowy historyka",
+					"Kazimierz Jasiński (1920-1997)",
+					"historia Polski średniowiecze"
+				],
+				"europeana_rights": "http://www.europeana.eu/rights/rr-f/",
+				"id": "nnwp0qc",
+				"dc_title": [
+					"Anna"
+				],
+				"tech_sourceObjectAppearanceDate": "2019-12-17T12:37:30.26Z",
+				"europeana_dataProvider": "Wielkopolska Biblioteka Cyfrowa",
+				"dc_creator": [
+					"Jasiński, Kazimierz (1920 - 1997)"
+				],
+				"tech_plannedPublication": false,
+				"plmet_digitisation": [
+					"PAN Biblioteka Kórnicka"
+				],
+				"dc_rights": [
+					"PAN Biblioteka Kórnicka",
+					"Jasiński, Tomasz",
+					"wszystkie prawa zastrzeżone",
+					"dla wszystkich w zakresie dozwolonego użytku",
+					"udostępnianie na podstawie umowy z właścicielem majątkowych praw autorskich"
+				],
+				"tech_modificationInDataSourceDate": "2020-03-03T12:12:02.234Z",
+				"dcterms_accessRights": "Dostęp otwarty",
+				"plmet_locationOfPhysicalObject": [
+					"PAN Biblioteka Kórnicka"
+				],
+				"dcterms_license": "http://rightsstatements.org/vocab/InC/1.0/",
+				"europeana_type": "TEXT",
+				"dc_description": [
+					"z księgozbioru profesora Tomasza Jasińskiego"
+				],
+				"tech_url": "http://www.wbc.poznan.pl/dlibra/doccontent?id=280656",
+				"tech_lastUpdateDate": "2020-03-03T12:12:02.234Z",
+				"dcterms_rightsHolder": [
+					"PAN Biblioteka Kórnicka",
+					"Jasiński, Tomasz"
+				],
+				"dc_type": [
+					"fiszka"
+				],
+				"tech_dateOfIndexing": "2020-03-03T12:12:02.314Z",
+				"score": 8.501872
+			},
+			{
+				"tech_type": "rękopis",
+				"dc_format": [
+					"image/vnd.djvu"
+				],
+				"dc_language": [
+					"pol",
+					"lat"
+				],
+				"tech_objectId": "oai:www.wbc.poznan.pl:304862",
+				"tech_sourceId": "http://www.wbc.poznan.pl/dlibra/oai-pmh-repository.xml",
+				"dc_subject": [
+					"warsztat naukowy historyka",
+					"Kazimierz Jasiński (1920-1997)",
+					"historia Polski średniowiecze"
+				],
+				"europeana_rights": "http://www.europeana.eu/rights/rr-f/",
+				"id": "nnw4krw",
+				"dc_title": [
+					"Anna"
+				],
+				"tech_sourceObjectAppearanceDate": "2019-12-17T12:44:01.062Z",
+				"europeana_dataProvider": "Wielkopolska Biblioteka Cyfrowa",
+				"dc_creator": [
+					"Jasiński, Kazimierz (1920 - 1997)"
+				],
+				"tech_plannedPublication": false,
+				"plmet_digitisation": [
+					"PAN Biblioteka Kórnicka"
+				],
+				"dc_rights": [
+					"PAN Biblioteka Kórnicka",
+					"Jasiński, Tomasz",
+					"wszystkie prawa zastrzeżone",
+					"dla wszystkich w zakresie dozwolonego użytku",
+					"udostępnianie na podstawie umowy z właścicielem majątkowych praw autorskich"
+				],
+				"tech_modificationInDataSourceDate": "2020-03-03T12:15:58.904Z",
+				"dcterms_accessRights": "Dostęp otwarty",
+				"plmet_locationOfPhysicalObject": [
+					"PAN Biblioteka Kórnicka"
+				],
+				"dcterms_license": "http://rightsstatements.org/vocab/InC/1.0/",
+				"europeana_type": "TEXT",
+				"dcterms_alternative": [
+					"T. II"
+				],
+				"dc_description": [
+					"z księgozbioru profesora Tomasza Jasińskiego"
+				],
+				"tech_url": "http://www.wbc.poznan.pl/dlibra/doccontent?id=304862",
+				"tech_lastUpdateDate": "2020-03-03T12:15:58.904Z",
+				"dcterms_rightsHolder": [
+					"PAN Biblioteka Kórnicka",
+					"Jasiński, Tomasz"
+				],
+				"dc_type": [
+					"fiszka"
+				],
+				"tech_dateOfIndexing": "2020-03-03T12:20:38.463Z",
+				"score": 8.501872
+			},
+			{
+				"tech_type": "książka",
+				"dc_format": [
+					"image/text"
+				],
+				"dc_language": [
+					"ita",
+					"pol"
+				],
+				"tech_objectId": "oai:polona.pl:129442900",
+				"date": [
+					"1900-01-01T00:00:00Z"
+				],
+				"tech_sourceId": "https://www.polona.pl/oai/OAIHandler",
+				"europeana_rights": "http://creativecommons.org/publicdomain/mark/1.0/",
+				"id": "nhSWksl",
+				"dc_title": [
+					"Anna"
+				],
+				"dc_identifier": [
+					"http://polona.pl/item/129442900"
+				],
+				"tech_sourceObjectAppearanceDate": "2021-07-08T02:51:14.191Z",
+				"europeana_dataProvider": "CBN Polona",
+				"dc_creator": [
+					"Sienkiewicz, Henryk (1846-1916)"
+				],
+				"dc_date": [
+					"1900"
+				],
+				"tech_plannedPublication": false,
+				"dc_rights": [
+					"Domena Publiczna. Wolno zwielokrotniać, zmieniać i rozpowszechniać oraz wykonywać utwór, nawet w celach komercyjnych, bez konieczności pytania o zgodę. Wykorzystując utwór należy pamiętać o poszanowaniu autorskich praw osobistych Twórcy.",
+					"http://creativecommons.org/publicdomain/mark/1.0"
+				],
+				"dc_source": [
+					"Biblioteka Narodowa"
+				],
+				"tech_modificationInDataSourceDate": "2021-07-08T02:51:14.254Z",
+				"dcterms_accessRights": "Dostęp otwarty",
+				"dc_coverage": [
+					"1801-1900"
+				],
+				"dcterms_license": "http://creativecommons.org/publicdomain/mark/1.0/",
+				"europeana_type": "TEXT",
+				"dc_contributor": [
+					"Zucconi, Tito (1837-1924) Tł."
+				],
+				"dc_description": [
+					"opowiadanie polskie"
+				],
+				"dc_publisher": [
+					"Firenze : A. Salani, 1900."
+				],
+				"tech_url": "http://polona.pl/item/129442900/",
+				"tech_lastUpdateDate": "2021-07-08T02:51:14.254Z",
+				"dc_type": [
+					"książka"
+				],
+				"single_date": "1900-01-01T00:00:00Z",
+				"tech_dateOfIndexing": "2021-07-08T02:52:10.329Z",
+				"score": 8.501872
+			},
+			{
+				"tech_type": "książka",
+				"dc_format": [
+					"application/pdf"
+				],
+				"dc_language": [
+					"pol"
+				],
+				"tech_objectId": "oai:zbc.uz.zgora.pl:45086",
+				"date": [
+					"2015-01-01T00:00:00Z"
+				],
+				"tech_sourceId": "http://zbc.uz.zgora.pl/dlibra/oai-pmh-repository.xml",
+				"dc_subject": [
+					"poezja polska",
+					"21 w."
+				],
+				"europeana_rights": "http://rightsstatements.org/vocab/InC/1.0/",
+				"id": "nnqzWV4",
+				"dc_title": [
+					"Anna"
+				],
+				"tech_sourceObjectAppearanceDate": "2022-01-10T15:01:01.155Z",
+				"europeana_dataProvider": "Zielonogórska Biblioteka Cyfrowa",
+				"dc_creator": [
+					"Szott"
+				],
+				"tech_plannedPublication": false,
+				"dc_date": [
+					"2015"
+				],
+				"dc_rights": [
+					"Biblioteka Uniwersytetu Zielonogórskiego"
+				],
+				"tech_modificationInDataSourceDate": "2022-01-13T12:24:34.684Z",
+				"dcterms_accessRights": "Dostęp otwarty",
+				"plmet_callNumber": [
+					"226042"
+				],
+				"dcterms_license": "http://rightsstatements.org/vocab/InC/1.0/",
+				"europeana_type": "TEXT",
+				"dc_publisher": [
+					"Zielona Góra: Oficyna Wydawnicza Uniwersytetu Zielonogórskiego"
+				],
+				"tech_url": "https://zbc.uz.zgora.pl/dlibra/doccontent?id=45086",
+				"tech_lastUpdateDate": "2022-01-13T12:24:34.684Z",
+				"dc_type": [
+					"książka"
+				],
+				"single_date": "2015-01-01T00:00:00Z",
+				"tech_dateOfIndexing": "2022-01-13T12:24:34.927Z",
+				"score": 8.501872
+			},
+			{
+				"tech_type": "zdjęcie",
+				"dc_format": [
+					"image/jpeg"
+				],
+				"tech_objectId": "oai:biblioteka.teatrnn.pl:19883",
+				"date": [
+					"1938-01-01T00:00:00Z"
+				],
+				"tech_sourceId": "http://biblioteka.teatrnn.pl/dlibra/dlibra/oai-pmh-repository.xml",
+				"dc_subject": [
+					"Langfus, Anna (1920-1966)",
+					"Szternfinkiel, Anna",
+					"portret",
+					"Lublin"
+				],
+				"europeana_rights": "http://rightsstatements.org/vocab/InC/1.0/",
+				"id": "nnmR553",
+				"dc_title": [
+					"Anna Szternfinkiel (Anna Langfus)"
+				],
+				"tech_sourceObjectAppearanceDate": "2021-06-01T05:55:33.964Z",
+				"europeana_dataProvider": "Biblioteka Multimedialna Teatru NN",
+				"dc_creator": [
+					"Hartwig, Edward (1909-2003)"
+				],
+				"tech_plannedPublication": false,
+				"dc_date": [
+					"1938"
+				],
+				"dc_source": [
+					"zbiory prywatne"
+				],
+				"tech_modificationInDataSourceDate": "2021-06-01T06:26:48.806Z",
+				"dcterms_accessRights": "Dostęp otwarty",
+				"dcterms_license": "http://rightsstatements.org/vocab/InC/1.0/",
+				"europeana_type": "IMAGE",
+				"dc_description": [
+					"Portret Anny Szternfinkiel (Anny Langfus) wykonany przez Edwarda Hartwiga w Lublinie."
+				],
+				"tech_url": "https://biblioteka.teatrnn.pl/dlibra/doccontent?id=19883",
+				"tech_lastUpdateDate": "2021-06-01T06:26:48.806Z",
+				"dc_type": [
+					"fotografia"
+				],
+				"single_date": "1938-01-01T00:00:00Z",
+				"tech_dateOfIndexing": "2021-06-01T06:36:31.976Z",
+				"score": 6.011731
+			},
+			{
+				"tech_type": "fotografia",
+				"dc_format": [
+					"image/jpeg"
+				],
+				"tech_objectId": "oai:bikop.eu:2462",
+				"date": [
+					"1935-01-01T00:00:00Z"
+				],
+				"tech_sourceId": "http://bikop.eu/dlibra/oai-pmh-repository.xml",
+				"dc_subject": [
+					"dziecko",
+					"dziewczynka",
+					"fotografia",
+					"fryzura",
+					"legitymacja",
+					"moda",
+					"moda międzywojenna",
+					"mundurek szkolny",
+					"portret",
+					"studio fotograficzne",
+					"zakład fotograficzny",
+					"Anna Danielewicz"
+				],
+				"europeana_rights": "http://www.europeana.eu/rights/rr-f/",
+				"id": "nn5Xs5z",
+				"dc_title": [
+					"Anna Danielewicz"
+				],
+				"tech_sourceObjectAppearanceDate": "2015-11-21T04:53:01.627Z",
+				"europeana_dataProvider": "Biblioteka Kolekcji Prywatnych",
+				"tech_plannedPublication": false,
+				"dcterms_abstract": [
+					"awers"
+				],
+				"dc_date": [
+					"1935"
+				],
+				"tech_modificationInDataSourceDate": "2016-05-06T07:10:56.987Z",
+				"dcterms_accessRights": "Dostęp otwarty",
+				"plmet_locationOfPhysicalObject": [
+					"Bogłowska Anna"
+				],
+				"dcterms_license": "Prawa zastrzeżone",
+				"europeana_type": "IMAGE",
+				"dc_description": [
+					"Zdjęcie legitymacyjne Anny Danielewicz w mundurku szkolnym z białym kołnierzykiem.",
+					"Fotografia portretowa"
+				],
+				"tech_url": "http://bikop.eu/dlibra/doccontent?id=2462",
+				"tech_lastUpdateDate": "2016-05-06T07:10:56.987Z",
+				"dc_type": [
+					"zdjęcie"
+				],
+				"single_date": "1935-01-01T00:00:00Z",
+				"tech_dateOfIndexing": "2017-11-07T04:44:13.429Z",
+				"score": 5.31367
+			},
+			{
+				"tech_type": "Inny",
+				"dc_format": [
+					"image/vnd.djvu"
+				],
+				"dc_language": [
+					"pol"
+				],
+				"tech_objectId": "oai:dlibra.karta.org.pl:18526",
+				"date": [
+					"1955-01-01T00:00:00Z"
+				],
+				"tech_sourceId": "http://www.dlibra.karta.org.pl/dlibra/oai-pmh-repository.xml",
+				"dc_subject": [
+					"kobiety",
+					"krajobraz",
+					"lata 50-te",
+					"Polacy w ZSRR",
+					"zesłańcy",
+					"Związek Radziecki",
+					"łagiernicy",
+					"łagry"
+				],
+				"europeana_rights": "http://www.europeana.eu/rights/rr-f/",
+				"id": "nnfbgg5",
+				"dc_title": [
+					"Anna Szyszko."
+				],
+				"tech_sourceObjectAppearanceDate": "2016-04-15T10:59:06.327Z",
+				"europeana_dataProvider": "Biblioteka Cyfrowa Ośrodka KARTA",
+				"dc_creator": [
+					"ERROR"
+				],
+				"tech_plannedPublication": false,
+				"dc_date": [
+					"1955 - 1956"
+				],
+				"dc_rights": [
+					"Fundacja Ośrodka KARTA"
+				],
+				"dc_source": [
+					"4"
+				],
+				"tech_modificationInDataSourceDate": "2016-04-15T11:08:51.067Z",
+				"dcterms_accessRights": "Dostęp otwarty",
+				"dcterms_license": "Prawa zastrzeżone",
+				"europeana_type": "TEXT",
+				"dc_description": [
+					"Fot. Bernard Grzywacz. Fotografia z kolekcji ponad 400 zdjęć wykonanych przez Bernarda Grzywacza w latach 1955-1957, po zwolnieniu z łagru. Zbiory Ośrodka KARTA, kolekcję udostępniły: Hanna Grzywacz i Bogusława Matuszewska."
+				],
+				"dc_publisher": [
+					"H. Grzywacz i B. Matuszewska"
+				],
+				"tech_url": "http://www.dlibra.karta.org.pl/dlibra/doccontent?id=18526",
+				"tech_lastUpdateDate": "2016-04-15T11:08:51.067Z",
+				"single_date": "1955-01-01T00:00:00Z",
+				"tech_dateOfIndexing": "2017-11-07T05:35:32.268Z",
+				"score": 5.31367
+			}
+		]
+	},
+	"facet_counts": {
+		"facet_queries": {},
+		"facet_fields": {
+			"dcterms_license": [
+				"inc",
+				32233,
+				"Prawa zastrzeżone",
+				17991,
+				"mark",
+				12433,
+				"by-nc-nd",
+				2156,
+				"by-nc-sa",
+				708,
+				"by",
+				537,
+				"by-sa",
+				362,
+				"by-nd",
+				221,
+				"by-nc",
+				140
+			],
+			"europeana_dataProvider": [
+				"Repozytorium Cyfrowe Instytutów Naukowych",
+				9818,
+				"Czasopisma PAN",
+				8478,
+				"CBN Polona",
+				7384,
+				"Zachodniopomorska Biblioteka Cyfrowa \"Pomerania\"",
+				5188,
+				"Jagiellońska Biblioteka Cyfrowa",
+				2320,
+				"Biblioteka Multimedialna Teatru NN",
+				2126,
+				"Śląska Biblioteka Cyfrowa",
+				2031,
+				"Biblioteka Cyfrowa - Regionalia Ziemi Łódzkiej",
+				1870,
+				"Repozytorium Cyfrowe Poloników",
+				1444,
+				"Repozytorium Uniwersytetu Łódzkiego",
+				1406,
+				"Biblioteka Cyfrowa Politechniki Śląskiej",
+				1288,
+				"Repozytorium Centrum Otwartej Nauki",
+				1163,
+				"Akademicka Platforma Czasopism",
+				1106,
+				"Repozytorium Uniwersytetu im. Adama Mickiewicza",
+				1020,
+				"Biblioteka Cyfrowa UMCS",
+				982,
+				"Dolnośląska Biblioteka Cyfrowa",
+				920,
+				"Cyfrowe Muzeum Narodowe w Warszawie",
+				823,
+				"Wielkopolska Biblioteka Cyfrowa",
+				814,
+				"Cyfrowy Dolny Śląsk",
+				797,
+				"Platforma Otwartych Czasopism Naukowych UAM",
+				784,
+				"Kujawsko-Pomorska Biblioteka Cyfrowa",
+				762,
+				"Zielonogórska Biblioteka Cyfrowa",
+				728,
+				"Biblioteka Cyfrowa Ośrodka KARTA",
+				626,
+				"Podlaska Biblioteka Cyfrowa",
+				622,
+				"Platforma Czasopism Uniwersytetu Kazimierza Wielkiego w Bydoszczy",
+				559,
+				"Biblioteka Kolekcji Prywatnych",
+				510,
+				"Wydawnictwo Uniwersytetu Wrocławskiego",
+				506,
+				"Biblioteka Cyfrowa KUL",
+				501,
+				"Repozytorium Uniwersytetu Kazimierza Wielkiego w Bydgoszczy",
+				493,
+				"Repozytorium Cyfrowe Uniwersytetu Wrocławskiego",
+				473,
+				"Repozytorium Instytucjonalne Krakowskiej Akademii im. Andrzeja Frycza Modrzewskiego",
+				452,
+				"Repozytorium eRIKA",
+				440,
+				"Bałtycka Biblioteka Cyfrowa",
+				435,
+				"Małopolska Biblioteka Cyfrowa",
+				433,
+				"Biblioteka Cyfrowa Uniwersytetu Wrocławskiego",
+				428,
+				"Repozytorium Politechniki Krakowskiej",
+				407,
+				"Wejherowska Biblioteka Cyfrowa",
+				404,
+				"Mazowiecka Biblioteka Cyfrowa",
+				398,
+				"Łódzka Regionalna Biblioteka Cyfrowa",
+				338,
+				"Podkarpacka Biblioteka Cyfrowa",
+				321,
+				"Repozytorium Uniwersytetu Mikołaja Kopernika",
+				299,
+				"Biblioteka Cyfrowa Politechniki Lubelskiej",
+				280,
+				"Repozytorium Instytutu Biochemii i Biofizyki Polskiej Akademii Nauk",
+				252,
+				"Biblioteka Cyfrowa Polskiego Instytutu Antropologii",
+				230,
+				"Biblioteka Cyfrowa AJD",
+				223,
+				"Pomorska Biblioteka Cyfrowa",
+				207,
+				"Radomska Biblioteka Cyfrowa",
+				170,
+				"Repozytorium Uniwersytetu Przyrodniczo-Humanistycznego w Siedlcach",
+				170,
+				"Czasopisma Wydawnictwa Uniwersytetu Śląskiego",
+				167,
+				"Platforma Czasopism Uniwersytetu Opolskiego",
+				165,
+				"Biblioteka Cyfrowa Instytutu Ekologii Terenów Uprzemysłowionych",
+				157,
+				"Warmińsko-Mazurska Biblioteka Cyfrowa",
+				143,
+				"PAUart Katalog zbiorów artystycznych i naukowych Polskiej Akademii Umiejętności",
+				141,
+				"Cyfrowa Biblioteka PISM",
+				138,
+				"Krośnieńska Biblioteka Cyfrowa",
+				123,
+				"Elbląska Biblioteka Cyfrowa",
+				121,
+				"AGH University of Science and Technology Journals",
+				107,
+				"Biblioteka Cyfrowa Uniwersytetu Łódzkiego",
+				105,
+				"Repozytorium Cyfrowe Politechniki Bydgoskiej",
+				104,
+				"Statystyczna Biblioteka Cyfrowa",
+				102,
+				"Biblioteka Cyfrowa Uniwersytetu Papieskiego Jana Pawła II w Krakowie",
+				96,
+				"Biblioteka Cyfrowa ORE",
+				94,
+				"Bibliologiczna Biblioteka Cyfrowa",
+				93,
+				"Internetowa Biblioteka Wzornictwa",
+				75,
+				"Zapisy Terroru Repozytorium Ośrodka Badań nad Totalitaryzmami",
+				73,
+				"Pedagogiczna Biblioteka Cyfrowa",
+				70,
+				"Wolne Lektury",
+				66,
+				"Wydawnictwa Stowarzyszenia EBIB",
+				65,
+				"Nowohucka Biblioteka Cyfrowa",
+				61,
+				"ISS PAS Journals",
+				60,
+				"Europejskie Centrum Solidarności",
+				59,
+				"Wydział Filozoficzny UAM",
+				56,
+				"Mediateka Centrum im. Ludwika Zamenhofa w Białymstoku",
+				54,
+				"Leszczyńska Biblioteka Cyfrowa",
+				52,
+				"CRISPA Biblioteka Uniwersytecka w Warszawie",
+				44,
+				"Bialska Biblioteka Cyfrowa",
+				42,
+				"Biblioteka Cyfrowa Uniwersytetu Jana Kochanowskiego w Kielcach",
+				41,
+				"Wirtualne Archiwum Polskich Ormian",
+				41,
+				"Muzeum Zamoyskich w Kozłówce",
+				33,
+				"Archiwum Muzyki Wiejskiej",
+				31,
+				"Otwórz książkę",
+				29,
+				"Biblioteka Cyfrowa Instytutu Łączności",
+				28,
+				"Biblioteka Cyfrowa Instytutu Geodezji i Kartografii",
+				27,
+				"Biblioteka Cyfrowa Politechniki Warszawskiej",
+				26,
+				"Iławska Biblioteka Cyfrowa",
+				26,
+				"Repozytorium Publikacji Naukowych Politechniki Śląskiej",
+				26,
+				"Tarnobrzeska Biblioteka Cyfrowa",
+				26,
+				"Biblioteka Cyfrowa Zagłębia Miedziowego",
+				25,
+				"Opolska Biblioteka Cyfrowa",
+				24,
+				"Muzeum Historii Fotografii",
+				23,
+				"Chełmska Biblioteka Cyfrowa",
+				22,
+				"Cyfrowa Biblioteka Diecezjalna w Sandomierzu",
+				21,
+				"Biblioteka Cyfrowa Wojewódzkiej Biblioteki Publicznej im. Hieronima Łopacińskiego w Lublinie",
+				19,
+				"Studia Informatica",
+				19,
+				"Muzeum Cyfrowe Uniwersytetu Wrocławskiego",
+				17,
+				"Otwarte Repozytorium Nauk Historycznych",
+				16,
+				"Rolnicza Biblioteka Cyfrowa",
+				16,
+				"Sanocka Biblioteka Cyfrowa",
+				16,
+				"Armarium. dominikańska biblioteka cyfrowa",
+				12,
+				"Czytelnia kwartalnika \"Bezpieczeństwo i Technika Pożarnicza\"",
+				12,
+				"Księgozbiór Wirtualny Federacji Bibliotek Kościelnych FIDES",
+				12,
+				"Biblioteka Cyfrowa Uniwersytetu Przyrodniczo-Humanistycznego w Siedlcach",
+				11,
+				"Świętokrzyska Biblioteka Cyfrowa",
+				10,
+				"Biblioteka Cyfrowa Politechniki Koszalińskiej",
+				9,
+				"Biblioteka Cyfrowa Książnicy Zamojskiej",
+				8,
+				"Cyfrowa Biblioteka Druków Ulotnych Polskich i Polski Dotyczących z XVI, XVII i XVIII Wieku",
+				8,
+				"Cyfrowe Archiwum Pamiątek",
+				8,
+				"Computer Science Journal",
+				7,
+				"Muzeum Leszno",
+				7,
+				"Muzeum Górnictwa Węglowego w Zabrzu",
+				6,
+				"Cyfrowa Biblioteka Pedagogiczna w Chełmie",
+				5,
+				"Publiczne Archiwum Cyfrowe Agnieszki Osieckiej",
+				5,
+				"Repozytorium Instytucjonalne PCSS",
+				5,
+				"Tarnowsko-Galicyjska Biblioteka Cyfrowa",
+				5,
+				"Biblioteka Cyfrowa UJK",
+				4,
+				"Biblioteka Humanistyczna",
+				4,
+				"Biblioteka Cyfrowa Uniwersytetu Warmińsko-Mazurskiego",
+				3,
+				"Centrum Sztuki WRO",
+				3,
+				"Sądecka Biblioteka Cyfrowa",
+				3,
+				"Wypędzeni 1939",
+				3,
+				"Biblioteka Cyfrowa Fundacji Ormiańskiej KZKO",
+				2,
+				"Biblioteka Cyfrowych Archiwów Tradycji Lokalnej",
+				2,
+				"Cyfrowa Ziemia Sieradzka",
+				2,
+				"Instytut im. Oskara Kolberga",
+				2,
+				"Zofia Rydet - Zapis socjologiczny",
+				2,
+				"Cyfrowe archiwum KK NSZZ Solidarność",
+				1,
+				"Gdańska Biblioteka Cyfrowa",
+				1,
+				"Morska Biblioteka Cyfrowa",
+				1,
+				"Muzeum Dziedzictwa Kresów Dawnej Rzeczypospolitej",
+				1,
+				"Polonijna Biblioteka Cyfrowa",
+				1,
+				"Repozytorium Biblioteka Cyfrowa IPI PAN",
+				1,
+				"Tarnowska Biblioteka Cyfrowa",
+				1
+			],
+			"tech_type": [
+				"artykuł",
+				14099,
+				"czasopismo",
+				14020,
+				"Inny",
+				12749,
+				"książka",
+				12165,
+				"obraz",
+				3749,
+				"rękopis",
+				2155,
+				"dokument życia społecznego",
+				1619,
+				"zdjęcie",
+				1349,
+				"fotografia",
+				911,
+				"rozprawa doktorska",
+				848,
+				"starodruk",
+				825,
+				"archiwalia i dokumenty urzędowe",
+				637,
+				"multimedia",
+				399,
+				"norma",
+				262,
+				"muzykalia",
+				219,
+				"film",
+				214,
+				"dokument archiwalny",
+				121,
+				"patent",
+				63,
+				"grafika",
+				55,
+				"obiekt muzealny użytkowy",
+				53,
+				"pocztówka",
+				53,
+				"praca dyplomowa",
+				48,
+				"inne",
+				44,
+				"numizmaty i odznaczenia",
+				33,
+				"mapy, atlasy i plany",
+				21,
+				"habilitacja",
+				16,
+				"dokument wideo",
+				13,
+				"kartoteka",
+				13,
+				"dokument elektroniczny",
+				12,
+				"dokument urzędowy",
+				11,
+				"rzeźba",
+				4,
+				"rozprawa habilitacyjna",
+				1
+			],
+			"dc_language": [
+				"pol",
+				42382,
+				"eng",
+				7755,
+				"lat",
+				6872,
+				"deu",
+				1785,
+				"fra",
+				530,
+				"zxx",
+				388,
+				"rus",
+				323,
+				"mul",
+				265,
+				"bel",
+				113,
+				"ita",
+				61,
+				"csb",
+				58,
+				"ces",
+				49,
+				"ukr",
+				43,
+				"grc",
+				22,
+				"slk",
+				19,
+				"spa",
+				17,
+				"yid",
+				16,
+				"und",
+				12,
+				"jpn",
+				11,
+				"heb",
+				9,
+				"ell",
+				8,
+				"chu",
+				5,
+				"hun",
+				3,
+				"nld",
+				3,
+				"hye",
+				2,
+				"lit",
+				2,
+				"swe",
+				2,
+				"bul",
+				1,
+				"cat",
+				1,
+				"dan",
+				1,
+				"epo",
+				1,
+				"fas",
+				1,
+				"hbs",
+				1,
+				"lac",
+				1,
+				"nor",
+				1,
+				"slv",
+				1
+			],
+			"dcterms_accessRights": [
+				"Dostęp ograniczony",
+				75045,
+				"Dostęp otwarty",
+				66781,
+				"Planowany do udostępnienia",
+				1389
+			]
+		},
+		"facet_dates": {},
+		"facet_ranges": {}
+	},
+	"stats": {
+		"stats_fields": {
+			"date": {
+				"min": "0001-01-01T00:00:00Z",
+				"max": "2022-12-31T00:00:00Z",
+				"count": 67108,
+				"missing": 9818,
+				"facets": {}
+			}
+		}
+	}
+}
