@@ -1,5 +1,7 @@
+import { HomePage } from "./components/pages/home-page.tsx";
+
 export const App =  () =>  {
   return (
-    <span>Hello World</span>
+      <HomePage />
   )
 }
