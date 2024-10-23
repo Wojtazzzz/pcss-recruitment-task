@@ -1,18 +1,16 @@
 import { type ReactNode } from 'react';
-import { Header } from "../header.tsx";
+import { Header } from '../header.tsx';
 
 type MainLayoutProps = {
-    children: ReactNode;
-}
+	children: ReactNode;
+};
 
 export const MainLayout = ({ children }: MainLayoutProps) => {
-    return (
-        <>
-            <Header />
+	return (
+		<>
+			<Header />
 
-            <main>
-                {children}
-            </main>
-        </>
-    )
-}
+			<main>{children}</main>
+		</>
+	);
+};

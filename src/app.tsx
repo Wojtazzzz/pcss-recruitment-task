@@ -1,7 +1,5 @@
-import { HomePage } from "./components/pages/home-page.tsx";
+import { HomePage } from './components/pages/home-page.tsx';
 
-export const App =  () =>  {
-  return (
-      <HomePage />
-  )
-}
+export const App = () => {
+	return <HomePage />;
+};

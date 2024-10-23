@@ -1,9 +1,5 @@
-import { MainLayout } from "../layouts/main-layout.tsx";
+import { MainLayout } from '../layouts/main-layout.tsx';
 
 export const HomePage = () => {
-    return (
-        <MainLayout>
-            Hello World
-        </MainLayout>
-    )
-}
+	return <MainLayout>Hello World</MainLayout>;
+};
