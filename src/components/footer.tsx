@@ -6,17 +6,17 @@ export const Footer = () => {
 
 	return (
 		<Container>
-				<Typography
-					variant="subtitle1"
-					component="p"
-					sx={{
-						margin: 1,
-						fontWeight: 500,
-						textAlign: 'center',
-					}}
-				>
-					© Copyright {currentYear} Lorem Inc. All rights reserved.
-				</Typography>
+			<Typography
+				variant="subtitle1"
+				component="p"
+				sx={{
+					margin: 1,
+					fontWeight: 500,
+					textAlign: 'center',
+				}}
+			>
+				© Copyright {currentYear} Lorem Inc. All rights reserved.
+			</Typography>
 		</Container>
 	);
 };
