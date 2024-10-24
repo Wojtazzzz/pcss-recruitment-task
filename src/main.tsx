@@ -3,6 +3,7 @@ import { createRoot } from 'react-dom/client';
 import { App } from './app.tsx';
 import './styles/index.css';
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
+import { VITE_BASE_PATH } from "./utils/env.ts";
 
 const root = document.getElementById('root');
 
@@ -12,7 +13,7 @@ if (!root) {
 
 const router = createBrowserRouter([
 	{
-		path: '/',
+		path: VITE_BASE_PATH,
 		element: <App />,
 	},
 ]);
