@@ -36,7 +36,9 @@ export const DocTile = ({ doc }: DocTileProps) => {
 				Tytuł(y): {titles}
 			</Typography>
 
-			<Typography variant="subtitle1" component="h3">Autor: {authors}</Typography>
+			<Typography variant="subtitle1" component="h3">
+				Autor: {authors}
+			</Typography>
 
 			<Typography variant="subtitle1" component="h3">
 				Typ: {doc.document_type}

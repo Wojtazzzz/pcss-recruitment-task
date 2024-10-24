@@ -1,30 +1,34 @@
 import Grid from '@mui/material/Grid2';
 import { Doc } from '../utils/docs-dal.ts';
 import { DocTile } from './doc-tile.tsx';
-import { useKeywordsDialog } from "./use-keywords-dialog.ts";
-import { ButtonBase, Dialog } from "@mui/material";
+import { useKeywordsDialog } from './use-keywords-dialog.ts';
+import { ButtonBase, Dialog } from '@mui/material';
 import DialogTitle from '@mui/material/DialogTitle';
 import DialogContent from '@mui/material/DialogContent';
 import IconButton from '@mui/material/IconButton';
 import CloseIcon from '@mui/icons-material/Close';
-import Typography from "@mui/material/Typography";
+import Typography from '@mui/material/Typography';
 
 type DocsGridProps = {
 	docs: Doc[];
 };
 
 export const DocsGrid = ({ docs }: DocsGridProps) => {
-	const {currentDocKeywords, isOpen, open, close} = useKeywordsDialog();
+	const { currentDocKeywords, isOpen, open, close } = useKeywordsDialog();
 
 	return (
 		<>
 			<Grid container spacing={2}>
 				{docs.map((doc) => (
 					<Grid size={{ xs: 12, sm: 6, md: 3 }} key={doc.id}>
-						<ButtonBase onClick={() => open(doc.id)} aria-label="pokaż słowa kluczowe" sx={{
-							display: "block",
-							width: '100%',
-						}}>
+						<ButtonBase
+							onClick={() => open(doc.id)}
+							aria-label="pokaż słowa kluczowe"
+							sx={{
+								display: 'block',
+								width: '100%',
+							}}
+						>
 							<DocTile doc={doc} />
 						</ButtonBase>
 					</Grid>

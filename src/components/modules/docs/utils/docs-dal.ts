@@ -12,7 +12,7 @@ export type Doc = {
 export type DocKeywords = {
 	id: RawDoc['id'];
 	value: string;
-}
+};
 
 export class DocsDal extends null {
 	static docs: RawDoc[];

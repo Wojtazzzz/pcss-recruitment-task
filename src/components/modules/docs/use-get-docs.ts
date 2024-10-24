@@ -20,7 +20,7 @@ export const useGetDocs = () => {
 		}
 	}, [
 		// getNumber, - Maximum update depth exceeded.
-		location
+		location,
 	]);
 
 	return {
