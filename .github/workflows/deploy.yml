@@ -19,6 +19,8 @@ jobs:
 
       - name: Install dependencies
         uses: bahmutov/npm-install@v1
+        env:
+          VITE_BASE_PATH: ${{ secrets.VITE_BASE_PATH }}
 
       - name: Build project
         run: npm run build
