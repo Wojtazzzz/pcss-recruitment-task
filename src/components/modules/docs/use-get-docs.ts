@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 import { DocsDal } from './utils/docs-dal.ts';
-import { useSearchParams } from '../../hooks/useSearchParams.ts';
+import { useSearchParams } from '../../hooks/use-search-params.ts';
 import { useLocation } from 'react-router-dom';
 
 export const useGetDocs = () => {

@@ -1,4 +1,4 @@
-import { useSearchParams } from '../../../hooks/useSearchParams.ts';
+import { useSearchParams } from '../../../hooks/use-search-params.ts';
 import { type SyntheticEvent, useState } from 'react';
 import type { ChangeEvent } from 'react';
 import { buildSearchParams } from '../../../utils/functions.ts';
