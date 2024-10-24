@@ -25,7 +25,7 @@ export const useDocsFilters = () => {
 		if (event.target.name === 'publishers') {
 			setSearchParams(
 				buildSearchParams({
-					publishers: value,
+					filter: 'publishers',
 				}),
 			);
 
@@ -35,7 +35,7 @@ export const useDocsFilters = () => {
 		if (event.target.name === 'with-date') {
 			setSearchParams(
 				buildSearchParams({
-					'with-date': value,
+					filter: 'with-date',
 				}),
 			);
 
