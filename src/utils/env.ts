@@ -6,4 +6,4 @@ const parseEnv = (env: unknown, envName: string) => {
 	return String(env);
 }
 
-export const VITE_BASE_PATH = parseEnv(import.meta.env.VITE_BASE_PATH, 'VITE_BASE_PATH');
+export const VITE_BASE_PATH = parseEnv(import.meta.env.BASE_URL, 'VITE_BASE_PATH');
