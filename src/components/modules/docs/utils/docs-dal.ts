@@ -23,7 +23,11 @@ export class DocsDal extends null
 
 	/* Step 2 */
 	static getMappedDocs() {
-		return DocsDal.docs.map((doc) => ({
+		return DocsDal.mapDocs(DocsDal.docs);
+	}
+
+	static mapDocs(docs: RawDoc[]) {
+		return docs.map((doc) => ({
 			id: doc.id,
 			creator: doc.dc_creator,
 			document_type: doc.tech_type,
@@ -32,7 +36,7 @@ export class DocsDal extends null
 	}
 
 	/* Step 3 */
-	static getFilteredAndSortedDocs() {
+	static getDocsWithPublishers() {
 		const docsFiltered = DocsDal.docs.filter((doc) => typeof doc.dc_publisher !== 'undefined');
 		const docsWithDate = docsFiltered.filter((doc) => typeof doc.single_date !== 'undefined');
 
