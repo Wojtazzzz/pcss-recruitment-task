@@ -2,6 +2,8 @@
 
 Created for the recruitment process at Poznańskie Centrum Superkomputerowo-Sieciowe.
 
+Deployment: https://wojtazzzz.github.io/pcss-recruitment-task/
+
 ## Requirements
 - Node
 - Npm
