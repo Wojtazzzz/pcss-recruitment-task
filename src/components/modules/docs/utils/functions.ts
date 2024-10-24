@@ -1,4 +1,4 @@
-import { Doc } from "./docs-dal.ts";
+import { Doc } from './docs-dal.ts';
 
 export const getTitles = (titles: Doc['title']) => {
 	if (titles.length === 0) {
@@ -6,7 +6,7 @@ export const getTitles = (titles: Doc['title']) => {
 	}
 
 	return titles.join(', ');
-}
+};
 
 export const getAuthors = (authors: Doc['creator']) => {
 	if (!authors || authors.length === 0) {
@@ -14,4 +14,4 @@ export const getAuthors = (authors: Doc['creator']) => {
 	}
 
 	return authors.join(', ');
-}
+};

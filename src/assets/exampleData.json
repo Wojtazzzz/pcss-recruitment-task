@@ -35,13 +35,8 @@
 		"docs": [
 			{
 				"tech_type": "rękopis",
-				"dc_format": [
-					"image/vnd.djvu"
-				],
-				"dc_language": [
-					"pol",
-					"lat"
-				],
+				"dc_format": ["image/vnd.djvu"],
+				"dc_language": ["pol", "lat"],
 				"tech_objectId": "oai:www.wbc.poznan.pl:253917",
 				"tech_sourceId": "http://www.wbc.poznan.pl/dlibra/oai-pmh-repository.xml",
 				"dc_subject": [
@@ -51,18 +46,12 @@
 				],
 				"europeana_rights": "http://www.europeana.eu/rights/rr-f/",
 				"id": "nndchbr",
-				"dc_title": [
-					"Anna"
-				],
+				"dc_title": ["Anna"],
 				"tech_sourceObjectAppearanceDate": "2019-12-17T12:23:47.904Z",
 				"europeana_dataProvider": "Wielkopolska Biblioteka Cyfrowa",
-				"dc_creator": [
-					"Jasiński, Kazimierz (1920 - 1997)"
-				],
+				"dc_creator": ["Jasiński, Kazimierz (1920 - 1997)"],
 				"tech_plannedPublication": false,
-				"plmet_digitisation": [
-					"PAN Biblioteka Kórnicka"
-				],
+				"plmet_digitisation": ["PAN Biblioteka Kórnicka"],
 				"dc_rights": [
 					"PAN Biblioteka Kórnicka",
 					"Jasiński, Tomasz",
@@ -72,14 +61,10 @@
 				],
 				"tech_modificationInDataSourceDate": "2020-03-03T12:05:33.383Z",
 				"dcterms_accessRights": "Dostęp otwarty",
-				"plmet_locationOfPhysicalObject": [
-					"PAN Biblioteka Kórnicka"
-				],
+				"plmet_locationOfPhysicalObject": ["PAN Biblioteka Kórnicka"],
 				"dcterms_license": "http://rightsstatements.org/vocab/InC/1.0/",
 				"europeana_type": "TEXT",
-				"dcterms_alternative": [
-					"T. II"
-				],
+				"dcterms_alternative": ["T. II"],
 				"dc_description": [
 					"z księgozbioru profesora Tomasza Jasińskiego"
 				],
@@ -89,21 +74,14 @@
 					"Jasiński, Tomasz",
 					"PAN Biblioteka Kórnicka"
 				],
-				"dc_type": [
-					"fiszka"
-				],
+				"dc_type": ["fiszka"],
 				"tech_dateOfIndexing": "2020-03-03T12:05:33.494Z",
 				"score": 8.501872
 			},
 			{
 				"tech_type": "rękopis",
-				"dc_format": [
-					"image/vnd.djvu"
-				],
-				"dc_language": [
-					"pol",
-					"lat"
-				],
+				"dc_format": ["image/vnd.djvu"],
+				"dc_language": ["pol", "lat"],
 				"tech_objectId": "oai:www.wbc.poznan.pl:254587",
 				"tech_sourceId": "http://www.wbc.poznan.pl/dlibra/oai-pmh-repository.xml",
 				"dc_subject": [
@@ -113,18 +91,12 @@
 				],
 				"europeana_rights": "http://www.europeana.eu/rights/rr-f/",
 				"id": "nndcf65",
-				"dc_title": [
-					"Anna"
-				],
+				"dc_title": ["Anna"],
 				"tech_sourceObjectAppearanceDate": "2019-12-17T12:23:54.091Z",
 				"europeana_dataProvider": "Wielkopolska Biblioteka Cyfrowa",
-				"dc_creator": [
-					"Jasiński, Kazimierz (1920 - 1997)"
-				],
+				"dc_creator": ["Jasiński, Kazimierz (1920 - 1997)"],
 				"tech_plannedPublication": false,
-				"plmet_digitisation": [
-					"PAN Biblioteka Kórnicka"
-				],
+				"plmet_digitisation": ["PAN Biblioteka Kórnicka"],
 				"dc_rights": [
 					"PAN Biblioteka Kórnicka",
 					"Jasiński, Tomasz",
@@ -134,9 +106,7 @@
 				],
 				"tech_modificationInDataSourceDate": "2020-03-03T12:05:37.069Z",
 				"dcterms_accessRights": "Dostęp otwarty",
-				"plmet_locationOfPhysicalObject": [
-					"PAN Biblioteka Kórnicka"
-				],
+				"plmet_locationOfPhysicalObject": ["PAN Biblioteka Kórnicka"],
 				"dcterms_license": "http://rightsstatements.org/vocab/InC/1.0/",
 				"europeana_type": "TEXT",
 				"dc_description": [
@@ -148,21 +118,14 @@
 					"Jasiński, Tomasz",
 					"PAN Biblioteka Kórnicka"
 				],
-				"dc_type": [
-					"fiszka"
-				],
+				"dc_type": ["fiszka"],
 				"tech_dateOfIndexing": "2020-03-03T12:05:37.206Z",
 				"score": 8.501872
 			},
 			{
 				"tech_type": "rękopis",
-				"dc_format": [
-					"image/vnd.djvu"
-				],
-				"dc_language": [
-					"pol",
-					"lat"
-				],
+				"dc_format": ["image/vnd.djvu"],
+				"dc_language": ["pol", "lat"],
 				"tech_objectId": "oai:www.wbc.poznan.pl:255169",
 				"tech_sourceId": "http://www.wbc.poznan.pl/dlibra/oai-pmh-repository.xml",
 				"dc_subject": [
@@ -172,18 +135,12 @@
 				],
 				"europeana_rights": "http://www.europeana.eu/rights/rr-f/",
 				"id": "nndc1WZ",
-				"dc_title": [
-					"Anna"
-				],
+				"dc_title": ["Anna"],
 				"tech_sourceObjectAppearanceDate": "2019-12-17T12:24:19.184Z",
 				"europeana_dataProvider": "Wielkopolska Biblioteka Cyfrowa",
-				"dc_creator": [
-					"Jasiński, Kazimierz (1920 - 1997)"
-				],
+				"dc_creator": ["Jasiński, Kazimierz (1920 - 1997)"],
 				"tech_plannedPublication": false,
-				"plmet_digitisation": [
-					"PAN Biblioteka Kórnicka"
-				],
+				"plmet_digitisation": ["PAN Biblioteka Kórnicka"],
 				"dc_rights": [
 					"PAN Biblioteka Kórnicka",
 					"Jasiński, Tomasz",
@@ -193,14 +150,10 @@
 				],
 				"tech_modificationInDataSourceDate": "2020-03-03T12:06:01.396Z",
 				"dcterms_accessRights": "Dostęp otwarty",
-				"plmet_locationOfPhysicalObject": [
-					"PAN Biblioteka Kórnicka"
-				],
+				"plmet_locationOfPhysicalObject": ["PAN Biblioteka Kórnicka"],
 				"dcterms_license": "http://rightsstatements.org/vocab/InC/1.0/",
 				"europeana_type": "TEXT",
-				"dcterms_alternative": [
-					"T. II"
-				],
+				"dcterms_alternative": ["T. II"],
 				"dc_description": [
 					"z księgozbioru profesora Tomasza Jasińskiego"
 				],
@@ -210,21 +163,14 @@
 					"Jasiński, Tomasz",
 					"PAN Biblioteka Kórnicka"
 				],
-				"dc_type": [
-					"fiszka"
-				],
+				"dc_type": ["fiszka"],
 				"tech_dateOfIndexing": "2020-03-03T12:06:01.503Z",
 				"score": 8.501872
 			},
 			{
 				"tech_type": "rękopis",
-				"dc_format": [
-					"image/vnd.djvu"
-				],
-				"dc_language": [
-					"pol",
-					"lat"
-				],
+				"dc_format": ["image/vnd.djvu"],
+				"dc_language": ["pol", "lat"],
 				"tech_objectId": "oai:www.wbc.poznan.pl:253674",
 				"tech_sourceId": "http://www.wbc.poznan.pl/dlibra/oai-pmh-repository.xml",
 				"dc_subject": [
@@ -236,18 +182,12 @@
 				],
 				"europeana_rights": "http://www.europeana.eu/rights/rr-f/",
 				"id": "nnfdcRc",
-				"dc_title": [
-					"Anna"
-				],
+				"dc_title": ["Anna"],
 				"tech_sourceObjectAppearanceDate": "2019-12-17T12:24:33.886Z",
 				"europeana_dataProvider": "Wielkopolska Biblioteka Cyfrowa",
-				"dc_creator": [
-					"Jasiński, Kazimierz (1920 - 1997)"
-				],
+				"dc_creator": ["Jasiński, Kazimierz (1920 - 1997)"],
 				"tech_plannedPublication": false,
-				"plmet_digitisation": [
-					"PAN Biblioteka Kórnicka"
-				],
+				"plmet_digitisation": ["PAN Biblioteka Kórnicka"],
 				"dc_rights": [
 					"PAN Biblioteka Kórnicka",
 					"Jasiński, Tomasz",
@@ -257,14 +197,10 @@
 				],
 				"tech_modificationInDataSourceDate": "2020-03-03T12:06:10.849Z",
 				"dcterms_accessRights": "Dostęp otwarty",
-				"plmet_locationOfPhysicalObject": [
-					"PAN Biblioteka Kórnicka"
-				],
+				"plmet_locationOfPhysicalObject": ["PAN Biblioteka Kórnicka"],
 				"dcterms_license": "http://rightsstatements.org/vocab/InC/1.0/",
 				"europeana_type": "TEXT",
-				"dcterms_alternative": [
-					"T.1"
-				],
+				"dcterms_alternative": ["T.1"],
 				"dc_description": [
 					"z księgozbioru profesora Tomasza Jasińskiego"
 				],
@@ -274,21 +210,14 @@
 					"Jasiński, Tomasz",
 					"PAN Biblioteka Kórnicka"
 				],
-				"dc_type": [
-					"fiszka"
-				],
+				"dc_type": ["fiszka"],
 				"tech_dateOfIndexing": "2020-03-03T12:06:10.958Z",
 				"score": 8.501872
 			},
 			{
 				"tech_type": "rękopis",
-				"dc_format": [
-					"image/vnd.djvu"
-				],
-				"dc_language": [
-					"pol",
-					"lat"
-				],
+				"dc_format": ["image/vnd.djvu"],
+				"dc_language": ["pol", "lat"],
 				"tech_objectId": "oai:www.wbc.poznan.pl:253897",
 				"tech_sourceId": "http://www.wbc.poznan.pl/dlibra/oai-pmh-repository.xml",
 				"dc_subject": [
@@ -298,18 +227,12 @@
 				],
 				"europeana_rights": "http://www.europeana.eu/rights/rr-f/",
 				"id": "nndchWb",
-				"dc_title": [
-					"Anna"
-				],
+				"dc_title": ["Anna"],
 				"tech_sourceObjectAppearanceDate": "2019-12-17T12:24:33.751Z",
 				"europeana_dataProvider": "Wielkopolska Biblioteka Cyfrowa",
-				"dc_creator": [
-					"Jasiński, Kazimierz (1920 - 1997)"
-				],
+				"dc_creator": ["Jasiński, Kazimierz (1920 - 1997)"],
 				"tech_plannedPublication": false,
-				"plmet_digitisation": [
-					"PAN Biblioteka Kórnicka"
-				],
+				"plmet_digitisation": ["PAN Biblioteka Kórnicka"],
 				"dc_rights": [
 					"PAN Biblioteka Kórnicka",
 					"Jasiński, Tomasz",
@@ -319,14 +242,10 @@
 				],
 				"tech_modificationInDataSourceDate": "2020-03-03T12:06:11.101Z",
 				"dcterms_accessRights": "Dostęp otwarty",
-				"plmet_locationOfPhysicalObject": [
-					"PAN Biblioteka Kórnicka"
-				],
+				"plmet_locationOfPhysicalObject": ["PAN Biblioteka Kórnicka"],
 				"dcterms_license": "http://rightsstatements.org/vocab/InC/1.0/",
 				"europeana_type": "TEXT",
-				"dcterms_alternative": [
-					"T. II"
-				],
+				"dcterms_alternative": ["T. II"],
 				"dc_description": [
 					"z księgozbioru profesora Tomasza Jasińskiego"
 				],
@@ -336,21 +255,14 @@
 					"Jasiński, Tomasz",
 					"PAN Biblioteka Kórnicka"
 				],
-				"dc_type": [
-					"fiszka"
-				],
+				"dc_type": ["fiszka"],
 				"tech_dateOfIndexing": "2020-03-03T12:06:11.186Z",
 				"score": 8.501872
 			},
 			{
 				"tech_type": "rękopis",
-				"dc_format": [
-					"image/vnd.djvu"
-				],
-				"dc_language": [
-					"pol",
-					"lat"
-				],
+				"dc_format": ["image/vnd.djvu"],
+				"dc_language": ["pol", "lat"],
 				"tech_objectId": "oai:www.wbc.poznan.pl:253886",
 				"tech_sourceId": "http://www.wbc.poznan.pl/dlibra/oai-pmh-repository.xml",
 				"dc_subject": [
@@ -360,18 +272,12 @@
 				],
 				"europeana_rights": "http://www.europeana.eu/rights/rr-f/",
 				"id": "nndchcw",
-				"dc_title": [
-					"Anna"
-				],
+				"dc_title": ["Anna"],
 				"tech_sourceObjectAppearanceDate": "2019-12-17T12:24:34.696Z",
 				"europeana_dataProvider": "Wielkopolska Biblioteka Cyfrowa",
-				"dc_creator": [
-					"Jasiński, Kazimierz (1920 - 1997)"
-				],
+				"dc_creator": ["Jasiński, Kazimierz (1920 - 1997)"],
 				"tech_plannedPublication": false,
-				"plmet_digitisation": [
-					"PAN Biblioteka Kórnicka"
-				],
+				"plmet_digitisation": ["PAN Biblioteka Kórnicka"],
 				"dc_rights": [
 					"PAN Biblioteka Kórnicka",
 					"Jasiński, Tomasz",
@@ -381,14 +287,10 @@
 				],
 				"tech_modificationInDataSourceDate": "2020-03-03T12:06:11.397Z",
 				"dcterms_accessRights": "Dostęp otwarty",
-				"plmet_locationOfPhysicalObject": [
-					"PAN Biblioteka Kórnicka"
-				],
+				"plmet_locationOfPhysicalObject": ["PAN Biblioteka Kórnicka"],
 				"dcterms_license": "http://rightsstatements.org/vocab/InC/1.0/",
 				"europeana_type": "TEXT",
-				"dcterms_alternative": [
-					"T. II"
-				],
+				"dcterms_alternative": ["T. II"],
 				"dc_description": [
 					"z księgozbioru profesora Tomasza Jasińskiego"
 				],
@@ -398,21 +300,14 @@
 					"Jasiński, Tomasz",
 					"PAN Biblioteka Kórnicka"
 				],
-				"dc_type": [
-					"fiszka"
-				],
+				"dc_type": ["fiszka"],
 				"tech_dateOfIndexing": "2020-03-03T12:06:11.484Z",
 				"score": 8.501872
 			},
 			{
 				"tech_type": "rękopis",
-				"dc_format": [
-					"image/vnd.djvu"
-				],
-				"dc_language": [
-					"pol",
-					"lat"
-				],
+				"dc_format": ["image/vnd.djvu"],
+				"dc_language": ["pol", "lat"],
 				"tech_objectId": "oai:www.wbc.poznan.pl:255165",
 				"tech_sourceId": "http://www.wbc.poznan.pl/dlibra/oai-pmh-repository.xml",
 				"dc_subject": [
@@ -422,18 +317,12 @@
 				],
 				"europeana_rights": "http://www.europeana.eu/rights/rr-f/",
 				"id": "nndc1bk",
-				"dc_title": [
-					"Anna"
-				],
+				"dc_title": ["Anna"],
 				"tech_sourceObjectAppearanceDate": "2019-12-17T12:24:33.047Z",
 				"europeana_dataProvider": "Wielkopolska Biblioteka Cyfrowa",
-				"dc_creator": [
-					"Jasiński, Kazimierz (1920 - 1997)"
-				],
+				"dc_creator": ["Jasiński, Kazimierz (1920 - 1997)"],
 				"tech_plannedPublication": false,
-				"plmet_digitisation": [
-					"PAN Biblioteka Kórnicka"
-				],
+				"plmet_digitisation": ["PAN Biblioteka Kórnicka"],
 				"dc_rights": [
 					"PAN Biblioteka Kórnicka",
 					"Jasiński, Tomasz",
@@ -443,14 +332,10 @@
 				],
 				"tech_modificationInDataSourceDate": "2020-03-03T12:06:11.784Z",
 				"dcterms_accessRights": "Dostęp otwarty",
-				"plmet_locationOfPhysicalObject": [
-					"PAN Biblioteka Kórnicka"
-				],
+				"plmet_locationOfPhysicalObject": ["PAN Biblioteka Kórnicka"],
 				"dcterms_license": "http://rightsstatements.org/vocab/InC/1.0/",
 				"europeana_type": "TEXT",
-				"dcterms_alternative": [
-					"T. II"
-				],
+				"dcterms_alternative": ["T. II"],
 				"dc_description": [
 					"z księgozbioru profesora Tomasza Jasińskiego"
 				],
@@ -460,21 +345,14 @@
 					"Jasiński, Tomasz",
 					"PAN Biblioteka Kórnicka"
 				],
-				"dc_type": [
-					"fiszka"
-				],
+				"dc_type": ["fiszka"],
 				"tech_dateOfIndexing": "2020-03-03T12:06:11.905Z",
 				"score": 8.501872
 			},
 			{
 				"tech_type": "rękopis",
-				"dc_format": [
-					"image/vnd.djvu"
-				],
-				"dc_language": [
-					"pol",
-					"lat"
-				],
+				"dc_format": ["image/vnd.djvu"],
+				"dc_language": ["pol", "lat"],
 				"tech_objectId": "oai:www.wbc.poznan.pl:255151",
 				"tech_sourceId": "http://www.wbc.poznan.pl/dlibra/oai-pmh-repository.xml",
 				"dc_subject": [
@@ -484,18 +362,12 @@
 				],
 				"europeana_rights": "http://www.europeana.eu/rights/rr-f/",
 				"id": "nndch5d",
-				"dc_title": [
-					"Anna"
-				],
+				"dc_title": ["Anna"],
 				"tech_sourceObjectAppearanceDate": "2019-12-17T12:24:40.926Z",
 				"europeana_dataProvider": "Wielkopolska Biblioteka Cyfrowa",
-				"dc_creator": [
-					"Jasiński, Kazimierz (1920 - 1997)"
-				],
+				"dc_creator": ["Jasiński, Kazimierz (1920 - 1997)"],
 				"tech_plannedPublication": false,
-				"plmet_digitisation": [
-					"PAN Biblioteka Kórnicka"
-				],
+				"plmet_digitisation": ["PAN Biblioteka Kórnicka"],
 				"dc_rights": [
 					"PAN Biblioteka Kórnicka",
 					"Jasiński, Tomasz",
@@ -505,14 +377,10 @@
 				],
 				"tech_modificationInDataSourceDate": "2020-03-03T12:06:13.992Z",
 				"dcterms_accessRights": "Dostęp otwarty",
-				"plmet_locationOfPhysicalObject": [
-					"PAN Biblioteka Kórnicka"
-				],
+				"plmet_locationOfPhysicalObject": ["PAN Biblioteka Kórnicka"],
 				"dcterms_license": "http://rightsstatements.org/vocab/InC/1.0/",
 				"europeana_type": "TEXT",
-				"dcterms_alternative": [
-					"T. II"
-				],
+				"dcterms_alternative": ["T. II"],
 				"dc_description": [
 					"z księgozbioru profesora Tomasza Jasińskiego"
 				],
@@ -522,21 +390,14 @@
 					"Jasiński, Tomasz",
 					"PAN Biblioteka Kórnicka"
 				],
-				"dc_type": [
-					"fiszka"
-				],
+				"dc_type": ["fiszka"],
 				"tech_dateOfIndexing": "2020-03-03T12:06:14.091Z",
 				"score": 8.501872
 			},
 			{
 				"tech_type": "rękopis",
-				"dc_format": [
-					"image/vnd.djvu"
-				],
-				"dc_language": [
-					"pol",
-					"lat"
-				],
+				"dc_format": ["image/vnd.djvu"],
+				"dc_language": ["pol", "lat"],
 				"tech_objectId": "oai:www.wbc.poznan.pl:254313",
 				"tech_sourceId": "http://www.wbc.poznan.pl/dlibra/oai-pmh-repository.xml",
 				"dc_subject": [
@@ -546,18 +407,12 @@
 				],
 				"europeana_rights": "http://www.europeana.eu/rights/rr-f/",
 				"id": "nndc2X5",
-				"dc_title": [
-					"Anna"
-				],
+				"dc_title": ["Anna"],
 				"tech_sourceObjectAppearanceDate": "2019-12-17T12:24:42.904Z",
 				"europeana_dataProvider": "Wielkopolska Biblioteka Cyfrowa",
-				"dc_creator": [
-					"Jasiński, Kazimierz (1920 - 1997)"
-				],
+				"dc_creator": ["Jasiński, Kazimierz (1920 - 1997)"],
 				"tech_plannedPublication": false,
-				"plmet_digitisation": [
-					"PAN Biblioteka Kórnicka"
-				],
+				"plmet_digitisation": ["PAN Biblioteka Kórnicka"],
 				"dc_rights": [
 					"PAN Biblioteka Kórnicka",
 					"Jasiński, Tomasz",
@@ -567,14 +422,10 @@
 				],
 				"tech_modificationInDataSourceDate": "2020-03-03T12:06:15.637Z",
 				"dcterms_accessRights": "Dostęp otwarty",
-				"plmet_locationOfPhysicalObject": [
-					"PAN Biblioteka Kórnicka"
-				],
+				"plmet_locationOfPhysicalObject": ["PAN Biblioteka Kórnicka"],
 				"dcterms_license": "http://rightsstatements.org/vocab/InC/1.0/",
 				"europeana_type": "TEXT",
-				"dcterms_alternative": [
-					"T. II"
-				],
+				"dcterms_alternative": ["T. II"],
 				"dc_description": [
 					"z księgozbioru profesora Tomasza Jasińskiego"
 				],
@@ -584,21 +435,14 @@
 					"Jasiński, Tomasz",
 					"PAN Biblioteka Kórnicka"
 				],
-				"dc_type": [
-					"fiszka"
-				],
+				"dc_type": ["fiszka"],
 				"tech_dateOfIndexing": "2020-03-03T12:06:15.811Z",
 				"score": 8.501872
 			},
 			{
 				"tech_type": "rękopis",
-				"dc_format": [
-					"image/vnd.djvu"
-				],
-				"dc_language": [
-					"pol",
-					"lat"
-				],
+				"dc_format": ["image/vnd.djvu"],
+				"dc_language": ["pol", "lat"],
 				"tech_objectId": "oai:www.wbc.poznan.pl:253662",
 				"tech_sourceId": "http://www.wbc.poznan.pl/dlibra/oai-pmh-repository.xml",
 				"dc_subject": [
@@ -610,18 +454,12 @@
 				],
 				"europeana_rights": "http://www.europeana.eu/rights/rr-f/",
 				"id": "nnfdcTk",
-				"dc_title": [
-					"Anna"
-				],
+				"dc_title": ["Anna"],
 				"tech_sourceObjectAppearanceDate": "2019-12-17T12:24:48.816Z",
 				"europeana_dataProvider": "Wielkopolska Biblioteka Cyfrowa",
-				"dc_creator": [
-					"Jasiński, Kazimierz (1920 - 1997)"
-				],
+				"dc_creator": ["Jasiński, Kazimierz (1920 - 1997)"],
 				"tech_plannedPublication": false,
-				"plmet_digitisation": [
-					"PAN Biblioteka Kórnicka"
-				],
+				"plmet_digitisation": ["PAN Biblioteka Kórnicka"],
 				"dc_rights": [
 					"PAN Biblioteka Kórnicka",
 					"Jasiński, Tomasz",
@@ -631,14 +469,10 @@
 				],
 				"tech_modificationInDataSourceDate": "2020-03-03T12:06:17.294Z",
 				"dcterms_accessRights": "Dostęp otwarty",
-				"plmet_locationOfPhysicalObject": [
-					"PAN Biblioteka Kórnicka"
-				],
+				"plmet_locationOfPhysicalObject": ["PAN Biblioteka Kórnicka"],
 				"dcterms_license": "http://rightsstatements.org/vocab/InC/1.0/",
 				"europeana_type": "TEXT",
-				"dcterms_alternative": [
-					"T.1"
-				],
+				"dcterms_alternative": ["T.1"],
 				"dc_description": [
 					"z księgozbioru profesora Tomasza Jasińskiego"
 				],
@@ -648,21 +482,14 @@
 					"Jasiński, Tomasz",
 					"PAN Biblioteka Kórnicka"
 				],
-				"dc_type": [
-					"fiszka"
-				],
+				"dc_type": ["fiszka"],
 				"tech_dateOfIndexing": "2020-03-03T12:06:17.618Z",
 				"score": 8.501872
 			},
 			{
 				"tech_type": "rękopis",
-				"dc_format": [
-					"image/vnd.djvu"
-				],
-				"dc_language": [
-					"pol",
-					"lat"
-				],
+				"dc_format": ["image/vnd.djvu"],
+				"dc_language": ["pol", "lat"],
 				"tech_objectId": "oai:www.wbc.poznan.pl:254594",
 				"tech_sourceId": "http://www.wbc.poznan.pl/dlibra/oai-pmh-repository.xml",
 				"dc_subject": [
@@ -672,18 +499,12 @@
 				],
 				"europeana_rights": "http://www.europeana.eu/rights/rr-f/",
 				"id": "nndcfWm",
-				"dc_title": [
-					"Anna"
-				],
+				"dc_title": ["Anna"],
 				"tech_sourceObjectAppearanceDate": "2019-12-17T12:24:48.978Z",
 				"europeana_dataProvider": "Wielkopolska Biblioteka Cyfrowa",
-				"dc_creator": [
-					"Jasiński, Kazimierz (1920 - 1997)"
-				],
+				"dc_creator": ["Jasiński, Kazimierz (1920 - 1997)"],
 				"tech_plannedPublication": false,
-				"plmet_digitisation": [
-					"PAN Biblioteka Kórnicka"
-				],
+				"plmet_digitisation": ["PAN Biblioteka Kórnicka"],
 				"dc_rights": [
 					"PAN Biblioteka Kórnicka",
 					"Jasiński, Tomasz",
@@ -693,9 +514,7 @@
 				],
 				"tech_modificationInDataSourceDate": "2020-03-03T12:06:19.239Z",
 				"dcterms_accessRights": "Dostęp otwarty",
-				"plmet_locationOfPhysicalObject": [
-					"PAN Biblioteka Kórnicka"
-				],
+				"plmet_locationOfPhysicalObject": ["PAN Biblioteka Kórnicka"],
 				"dcterms_license": "http://rightsstatements.org/vocab/InC/1.0/",
 				"europeana_type": "TEXT",
 				"dc_description": [
@@ -707,21 +526,14 @@
 					"Jasiński, Tomasz",
 					"PAN Biblioteka Kórnicka"
 				],
-				"dc_type": [
-					"fiszka"
-				],
+				"dc_type": ["fiszka"],
 				"tech_dateOfIndexing": "2020-03-03T12:06:19.347Z",
 				"score": 8.501872
 			},
 			{
 				"tech_type": "rękopis",
-				"dc_format": [
-					"image/vnd.djvu"
-				],
-				"dc_language": [
-					"pol",
-					"lat"
-				],
+				"dc_format": ["image/vnd.djvu"],
+				"dc_language": ["pol", "lat"],
 				"tech_objectId": "oai:www.wbc.poznan.pl:253707",
 				"tech_sourceId": "http://www.wbc.poznan.pl/dlibra/oai-pmh-repository.xml",
 				"dc_subject": [
@@ -733,18 +545,12 @@
 				],
 				"europeana_rights": "http://www.europeana.eu/rights/rr-f/",
 				"id": "nnfdczW",
-				"dc_title": [
-					"Anna"
-				],
+				"dc_title": ["Anna"],
 				"tech_sourceObjectAppearanceDate": "2019-12-17T12:24:52.872Z",
 				"europeana_dataProvider": "Wielkopolska Biblioteka Cyfrowa",
-				"dc_creator": [
-					"Jasiński, Kazimierz (1920 - 1997)"
-				],
+				"dc_creator": ["Jasiński, Kazimierz (1920 - 1997)"],
 				"tech_plannedPublication": false,
-				"plmet_digitisation": [
-					"PAN Biblioteka Kórnicka"
-				],
+				"plmet_digitisation": ["PAN Biblioteka Kórnicka"],
 				"dc_rights": [
 					"PAN Biblioteka Kórnicka",
 					"Jasiński, Tomasz",
@@ -754,14 +560,10 @@
 				],
 				"tech_modificationInDataSourceDate": "2020-03-03T12:06:21.977Z",
 				"dcterms_accessRights": "Dostęp otwarty",
-				"plmet_locationOfPhysicalObject": [
-					"PAN Biblioteka Kórnicka"
-				],
+				"plmet_locationOfPhysicalObject": ["PAN Biblioteka Kórnicka"],
 				"dcterms_license": "http://rightsstatements.org/vocab/InC/1.0/",
 				"europeana_type": "TEXT",
-				"dcterms_alternative": [
-					"T.1"
-				],
+				"dcterms_alternative": ["T.1"],
 				"dc_description": [
 					"z księgozbioru profesora Tomasza Jasińskiego"
 				],
@@ -771,21 +573,14 @@
 					"Jasiński, Tomasz",
 					"PAN Biblioteka Kórnicka"
 				],
-				"dc_type": [
-					"fiszka"
-				],
+				"dc_type": ["fiszka"],
 				"tech_dateOfIndexing": "2020-03-03T12:06:22.043Z",
 				"score": 8.501872
 			},
 			{
 				"tech_type": "rękopis",
-				"dc_format": [
-					"image/vnd.djvu"
-				],
-				"dc_language": [
-					"pol",
-					"lat"
-				],
+				"dc_format": ["image/vnd.djvu"],
+				"dc_language": ["pol", "lat"],
 				"tech_objectId": "oai:www.wbc.poznan.pl:253911",
 				"tech_sourceId": "http://www.wbc.poznan.pl/dlibra/oai-pmh-repository.xml",
 				"dc_subject": [
@@ -795,18 +590,12 @@
 				],
 				"europeana_rights": "http://www.europeana.eu/rights/rr-f/",
 				"id": "nndch9r",
-				"dc_title": [
-					"Anna"
-				],
+				"dc_title": ["Anna"],
 				"tech_sourceObjectAppearanceDate": "2019-12-17T12:25:00.522Z",
 				"europeana_dataProvider": "Wielkopolska Biblioteka Cyfrowa",
-				"dc_creator": [
-					"Jasiński, Kazimierz (1920 - 1997)"
-				],
+				"dc_creator": ["Jasiński, Kazimierz (1920 - 1997)"],
 				"tech_plannedPublication": false,
-				"plmet_digitisation": [
-					"PAN Biblioteka Kórnicka"
-				],
+				"plmet_digitisation": ["PAN Biblioteka Kórnicka"],
 				"dc_rights": [
 					"PAN Biblioteka Kórnicka",
 					"Jasiński, Tomasz",
@@ -816,14 +605,10 @@
 				],
 				"tech_modificationInDataSourceDate": "2020-03-03T12:06:25.711Z",
 				"dcterms_accessRights": "Dostęp otwarty",
-				"plmet_locationOfPhysicalObject": [
-					"PAN Biblioteka Kórnicka"
-				],
+				"plmet_locationOfPhysicalObject": ["PAN Biblioteka Kórnicka"],
 				"dcterms_license": "http://rightsstatements.org/vocab/InC/1.0/",
 				"europeana_type": "TEXT",
-				"dcterms_alternative": [
-					"T. II"
-				],
+				"dcterms_alternative": ["T. II"],
 				"dc_description": [
 					"z księgozbioru profesora Tomasza Jasińskiego"
 				],
@@ -833,21 +618,14 @@
 					"Jasiński, Tomasz",
 					"PAN Biblioteka Kórnicka"
 				],
-				"dc_type": [
-					"fiszka"
-				],
+				"dc_type": ["fiszka"],
 				"tech_dateOfIndexing": "2020-03-03T12:06:25.793Z",
 				"score": 8.501872
 			},
 			{
 				"tech_type": "rękopis",
-				"dc_format": [
-					"image/vnd.djvu"
-				],
-				"dc_language": [
-					"pol",
-					"lat"
-				],
+				"dc_format": ["image/vnd.djvu"],
+				"dc_language": ["pol", "lat"],
 				"tech_objectId": "oai:www.wbc.poznan.pl:254599",
 				"tech_sourceId": "http://www.wbc.poznan.pl/dlibra/oai-pmh-repository.xml",
 				"dc_subject": [
@@ -857,18 +635,12 @@
 				],
 				"europeana_rights": "http://www.europeana.eu/rights/rr-f/",
 				"id": "nndcf9z",
-				"dc_title": [
-					"Anna"
-				],
+				"dc_title": ["Anna"],
 				"tech_sourceObjectAppearanceDate": "2019-12-17T12:24:59.072Z",
 				"europeana_dataProvider": "Wielkopolska Biblioteka Cyfrowa",
-				"dc_creator": [
-					"Jasiński, Kazimierz (1920 - 1997)"
-				],
+				"dc_creator": ["Jasiński, Kazimierz (1920 - 1997)"],
 				"tech_plannedPublication": false,
-				"plmet_digitisation": [
-					"PAN Biblioteka Kórnicka"
-				],
+				"plmet_digitisation": ["PAN Biblioteka Kórnicka"],
 				"dc_rights": [
 					"PAN Biblioteka Kórnicka",
 					"Jasiński, Tomasz",
@@ -878,9 +650,7 @@
 				],
 				"tech_modificationInDataSourceDate": "2020-03-03T12:06:27.438Z",
 				"dcterms_accessRights": "Dostęp otwarty",
-				"plmet_locationOfPhysicalObject": [
-					"PAN Biblioteka Kórnicka"
-				],
+				"plmet_locationOfPhysicalObject": ["PAN Biblioteka Kórnicka"],
 				"dcterms_license": "http://rightsstatements.org/vocab/InC/1.0/",
 				"europeana_type": "TEXT",
 				"dc_description": [
@@ -892,21 +662,14 @@
 					"Jasiński, Tomasz",
 					"PAN Biblioteka Kórnicka"
 				],
-				"dc_type": [
-					"fiszka"
-				],
+				"dc_type": ["fiszka"],
 				"tech_dateOfIndexing": "2020-03-03T12:06:27.58Z",
 				"score": 8.501872
 			},
 			{
 				"tech_type": "rękopis",
-				"dc_format": [
-					"image/vnd.djvu"
-				],
-				"dc_language": [
-					"pol",
-					"lat"
-				],
+				"dc_format": ["image/vnd.djvu"],
+				"dc_language": ["pol", "lat"],
 				"tech_objectId": "oai:www.wbc.poznan.pl:280743",
 				"tech_sourceId": "http://www.wbc.poznan.pl/dlibra/oai-pmh-repository.xml",
 				"dc_subject": [
@@ -916,18 +679,12 @@
 				],
 				"europeana_rights": "http://www.europeana.eu/rights/rr-f/",
 				"id": "nnwpR9x",
-				"dc_title": [
-					"Anna"
-				],
+				"dc_title": ["Anna"],
 				"tech_sourceObjectAppearanceDate": "2019-12-17T12:36:30.175Z",
 				"europeana_dataProvider": "Wielkopolska Biblioteka Cyfrowa",
-				"dc_creator": [
-					"Jasiński, Kazimierz (1920 - 1997)"
-				],
+				"dc_creator": ["Jasiński, Kazimierz (1920 - 1997)"],
 				"tech_plannedPublication": false,
-				"plmet_digitisation": [
-					"PAN Biblioteka Kórnicka"
-				],
+				"plmet_digitisation": ["PAN Biblioteka Kórnicka"],
 				"dc_rights": [
 					"PAN Biblioteka Kórnicka",
 					"Jasiński, Tomasz",
@@ -937,9 +694,7 @@
 				],
 				"tech_modificationInDataSourceDate": "2020-03-03T12:11:28.462Z",
 				"dcterms_accessRights": "Dostęp otwarty",
-				"plmet_locationOfPhysicalObject": [
-					"PAN Biblioteka Kórnicka"
-				],
+				"plmet_locationOfPhysicalObject": ["PAN Biblioteka Kórnicka"],
 				"dcterms_license": "http://rightsstatements.org/vocab/InC/1.0/",
 				"europeana_type": "TEXT",
 				"dc_description": [
@@ -951,21 +706,14 @@
 					"PAN Biblioteka Kórnicka",
 					"Jasiński, Tomasz"
 				],
-				"dc_type": [
-					"fiszka"
-				],
+				"dc_type": ["fiszka"],
 				"tech_dateOfIndexing": "2020-03-03T12:11:28.918Z",
 				"score": 8.501872
 			},
 			{
 				"tech_type": "rękopis",
-				"dc_format": [
-					"image/vnd.djvu"
-				],
-				"dc_language": [
-					"pol",
-					"lat"
-				],
+				"dc_format": ["image/vnd.djvu"],
+				"dc_language": ["pol", "lat"],
 				"tech_objectId": "oai:www.wbc.poznan.pl:280599",
 				"tech_sourceId": "http://www.wbc.poznan.pl/dlibra/oai-pmh-repository.xml",
 				"dc_subject": [
@@ -975,18 +723,12 @@
 				],
 				"europeana_rights": "http://www.europeana.eu/rights/rr-f/",
 				"id": "nnwp0ml",
-				"dc_title": [
-					"Anna"
-				],
+				"dc_title": ["Anna"],
 				"tech_sourceObjectAppearanceDate": "2019-12-17T12:36:36.248Z",
 				"europeana_dataProvider": "Wielkopolska Biblioteka Cyfrowa",
-				"dc_creator": [
-					"Jasiński, Kazimierz (1920 - 1997)"
-				],
+				"dc_creator": ["Jasiński, Kazimierz (1920 - 1997)"],
 				"tech_plannedPublication": false,
-				"plmet_digitisation": [
-					"PAN Biblioteka Kórnicka"
-				],
+				"plmet_digitisation": ["PAN Biblioteka Kórnicka"],
 				"dc_rights": [
 					"PAN Biblioteka Kórnicka",
 					"Jasiński, Tomasz",
@@ -996,9 +738,7 @@
 				],
 				"tech_modificationInDataSourceDate": "2020-03-03T12:11:32.097Z",
 				"dcterms_accessRights": "Dostęp otwarty",
-				"plmet_locationOfPhysicalObject": [
-					"PAN Biblioteka Kórnicka"
-				],
+				"plmet_locationOfPhysicalObject": ["PAN Biblioteka Kórnicka"],
 				"dcterms_license": "http://rightsstatements.org/vocab/InC/1.0/",
 				"europeana_type": "TEXT",
 				"dc_description": [
@@ -1010,21 +750,14 @@
 					"PAN Biblioteka Kórnicka",
 					"Jasiński, Tomasz"
 				],
-				"dc_type": [
-					"fiszka"
-				],
+				"dc_type": ["fiszka"],
 				"tech_dateOfIndexing": "2020-03-03T12:11:32.273Z",
 				"score": 8.501872
 			},
 			{
 				"tech_type": "rękopis",
-				"dc_format": [
-					"image/vnd.djvu"
-				],
-				"dc_language": [
-					"pol",
-					"lat"
-				],
+				"dc_format": ["image/vnd.djvu"],
+				"dc_language": ["pol", "lat"],
 				"tech_objectId": "oai:www.wbc.poznan.pl:280571",
 				"tech_sourceId": "http://www.wbc.poznan.pl/dlibra/oai-pmh-repository.xml",
 				"dc_subject": [
@@ -1034,18 +767,12 @@
 				],
 				"europeana_rights": "http://www.europeana.eu/rights/rr-f/",
 				"id": "nnwp07k",
-				"dc_title": [
-					"Anna"
-				],
+				"dc_title": ["Anna"],
 				"tech_sourceObjectAppearanceDate": "2019-12-17T12:36:35.147Z",
 				"europeana_dataProvider": "Wielkopolska Biblioteka Cyfrowa",
-				"dc_creator": [
-					"Jasiński, Kazimierz (1920 - 1997)"
-				],
+				"dc_creator": ["Jasiński, Kazimierz (1920 - 1997)"],
 				"tech_plannedPublication": false,
-				"plmet_digitisation": [
-					"PAN Biblioteka Kórnicka"
-				],
+				"plmet_digitisation": ["PAN Biblioteka Kórnicka"],
 				"dc_rights": [
 					"PAN Biblioteka Kórnicka",
 					"Jasiński, Tomasz",
@@ -1055,9 +782,7 @@
 				],
 				"tech_modificationInDataSourceDate": "2020-03-03T12:11:33.019Z",
 				"dcterms_accessRights": "Dostęp otwarty",
-				"plmet_locationOfPhysicalObject": [
-					"PAN Biblioteka Kórnicka"
-				],
+				"plmet_locationOfPhysicalObject": ["PAN Biblioteka Kórnicka"],
 				"dcterms_license": "http://rightsstatements.org/vocab/InC/1.0/",
 				"europeana_type": "TEXT",
 				"dc_description": [
@@ -1069,21 +794,14 @@
 					"PAN Biblioteka Kórnicka",
 					"Jasiński, Tomasz"
 				],
-				"dc_type": [
-					"fiszka"
-				],
+				"dc_type": ["fiszka"],
 				"tech_dateOfIndexing": "2020-03-03T12:11:33.162Z",
 				"score": 8.501872
 			},
 			{
 				"tech_type": "rękopis",
-				"dc_format": [
-					"image/vnd.djvu"
-				],
-				"dc_language": [
-					"pol",
-					"lat"
-				],
+				"dc_format": ["image/vnd.djvu"],
+				"dc_language": ["pol", "lat"],
 				"tech_objectId": "oai:www.wbc.poznan.pl:280583",
 				"tech_sourceId": "http://www.wbc.poznan.pl/dlibra/oai-pmh-repository.xml",
 				"dc_subject": [
@@ -1093,18 +811,12 @@
 				],
 				"europeana_rights": "http://www.europeana.eu/rights/rr-f/",
 				"id": "nnwp0w6",
-				"dc_title": [
-					"Anna"
-				],
+				"dc_title": ["Anna"],
 				"tech_sourceObjectAppearanceDate": "2019-12-17T12:36:39.938Z",
 				"europeana_dataProvider": "Wielkopolska Biblioteka Cyfrowa",
-				"dc_creator": [
-					"Jasiński, Kazimierz (1920 - 1997)"
-				],
+				"dc_creator": ["Jasiński, Kazimierz (1920 - 1997)"],
 				"tech_plannedPublication": false,
-				"plmet_digitisation": [
-					"PAN Biblioteka Kórnicka"
-				],
+				"plmet_digitisation": ["PAN Biblioteka Kórnicka"],
 				"dc_rights": [
 					"PAN Biblioteka Kórnicka",
 					"Jasiński, Tomasz",
@@ -1114,9 +826,7 @@
 				],
 				"tech_modificationInDataSourceDate": "2020-03-03T12:11:34.847Z",
 				"dcterms_accessRights": "Dostęp otwarty",
-				"plmet_locationOfPhysicalObject": [
-					"PAN Biblioteka Kórnicka"
-				],
+				"plmet_locationOfPhysicalObject": ["PAN Biblioteka Kórnicka"],
 				"dcterms_license": "http://rightsstatements.org/vocab/InC/1.0/",
 				"europeana_type": "TEXT",
 				"dc_description": [
@@ -1128,21 +838,14 @@
 					"PAN Biblioteka Kórnicka",
 					"Jasiński, Tomasz"
 				],
-				"dc_type": [
-					"fiszka"
-				],
+				"dc_type": ["fiszka"],
 				"tech_dateOfIndexing": "2020-03-03T12:11:35.051Z",
 				"score": 8.501872
 			},
 			{
 				"tech_type": "rękopis",
-				"dc_format": [
-					"image/vnd.djvu"
-				],
-				"dc_language": [
-					"pol",
-					"lat"
-				],
+				"dc_format": ["image/vnd.djvu"],
+				"dc_language": ["pol", "lat"],
 				"tech_objectId": "oai:www.wbc.poznan.pl:280559",
 				"tech_sourceId": "http://www.wbc.poznan.pl/dlibra/oai-pmh-repository.xml",
 				"dc_subject": [
@@ -1152,18 +855,12 @@
 				],
 				"europeana_rights": "http://www.europeana.eu/rights/rr-f/",
 				"id": "nnwp0bV",
-				"dc_title": [
-					"Anna"
-				],
+				"dc_title": ["Anna"],
 				"tech_sourceObjectAppearanceDate": "2019-12-17T12:36:38.437Z",
 				"europeana_dataProvider": "Wielkopolska Biblioteka Cyfrowa",
-				"dc_creator": [
-					"Jasiński, Kazimierz (1920 - 1997)"
-				],
+				"dc_creator": ["Jasiński, Kazimierz (1920 - 1997)"],
 				"tech_plannedPublication": false,
-				"plmet_digitisation": [
-					"PAN Biblioteka Kórnicka"
-				],
+				"plmet_digitisation": ["PAN Biblioteka Kórnicka"],
 				"dc_rights": [
 					"PAN Biblioteka Kórnicka",
 					"Jasiński, Tomasz",
@@ -1173,9 +870,7 @@
 				],
 				"tech_modificationInDataSourceDate": "2020-03-03T12:11:34.954Z",
 				"dcterms_accessRights": "Dostęp otwarty",
-				"plmet_locationOfPhysicalObject": [
-					"PAN Biblioteka Kórnicka"
-				],
+				"plmet_locationOfPhysicalObject": ["PAN Biblioteka Kórnicka"],
 				"dcterms_license": "http://rightsstatements.org/vocab/InC/1.0/",
 				"europeana_type": "TEXT",
 				"dc_description": [
@@ -1187,21 +882,14 @@
 					"PAN Biblioteka Kórnicka",
 					"Jasiński, Tomasz"
 				],
-				"dc_type": [
-					"fiszka"
-				],
+				"dc_type": ["fiszka"],
 				"tech_dateOfIndexing": "2020-03-03T12:11:35.239Z",
 				"score": 8.501872
 			},
 			{
 				"tech_type": "rękopis",
-				"dc_format": [
-					"image/vnd.djvu"
-				],
-				"dc_language": [
-					"pol",
-					"lat"
-				],
+				"dc_format": ["image/vnd.djvu"],
+				"dc_language": ["pol", "lat"],
 				"tech_objectId": "oai:www.wbc.poznan.pl:280705",
 				"tech_sourceId": "http://www.wbc.poznan.pl/dlibra/oai-pmh-repository.xml",
 				"dc_subject": [
@@ -1211,18 +899,12 @@
 				],
 				"europeana_rights": "http://www.europeana.eu/rights/rr-f/",
 				"id": "nnwpRcT",
-				"dc_title": [
-					"Anna"
-				],
+				"dc_title": ["Anna"],
 				"tech_sourceObjectAppearanceDate": "2019-12-17T12:36:54.9Z",
 				"europeana_dataProvider": "Wielkopolska Biblioteka Cyfrowa",
-				"dc_creator": [
-					"Jasiński, Kazimierz (1920 - 1997)"
-				],
+				"dc_creator": ["Jasiński, Kazimierz (1920 - 1997)"],
 				"tech_plannedPublication": false,
-				"plmet_digitisation": [
-					"PAN Biblioteka Kórnicka"
-				],
+				"plmet_digitisation": ["PAN Biblioteka Kórnicka"],
 				"dc_rights": [
 					"PAN Biblioteka Kórnicka",
 					"Jasiński, Tomasz",
@@ -1232,9 +914,7 @@
 				],
 				"tech_modificationInDataSourceDate": "2020-03-03T12:11:43.792Z",
 				"dcterms_accessRights": "Dostęp otwarty",
-				"plmet_locationOfPhysicalObject": [
-					"PAN Biblioteka Kórnicka"
-				],
+				"plmet_locationOfPhysicalObject": ["PAN Biblioteka Kórnicka"],
 				"dcterms_license": "http://rightsstatements.org/vocab/InC/1.0/",
 				"europeana_type": "TEXT",
 				"dc_description": [
@@ -1246,21 +926,14 @@
 					"PAN Biblioteka Kórnicka",
 					"Jasiński, Tomasz"
 				],
-				"dc_type": [
-					"fiszka"
-				],
+				"dc_type": ["fiszka"],
 				"tech_dateOfIndexing": "2020-03-03T12:11:43.971Z",
 				"score": 8.501872
 			},
 			{
 				"tech_type": "rękopis",
-				"dc_format": [
-					"image/vnd.djvu"
-				],
-				"dc_language": [
-					"pol",
-					"lat"
-				],
+				"dc_format": ["image/vnd.djvu"],
+				"dc_language": ["pol", "lat"],
 				"tech_objectId": "oai:www.wbc.poznan.pl:280654",
 				"tech_sourceId": "http://www.wbc.poznan.pl/dlibra/oai-pmh-repository.xml",
 				"dc_subject": [
@@ -1270,18 +943,12 @@
 				],
 				"europeana_rights": "http://www.europeana.eu/rights/rr-f/",
 				"id": "nnwp0Rm",
-				"dc_title": [
-					"Anna"
-				],
+				"dc_title": ["Anna"],
 				"tech_sourceObjectAppearanceDate": "2019-12-17T12:37:17.391Z",
 				"europeana_dataProvider": "Wielkopolska Biblioteka Cyfrowa",
-				"dc_creator": [
-					"Jasiński, Kazimierz (1920 - 1997)"
-				],
+				"dc_creator": ["Jasiński, Kazimierz (1920 - 1997)"],
 				"tech_plannedPublication": false,
-				"plmet_digitisation": [
-					"PAN Biblioteka Kórnicka"
-				],
+				"plmet_digitisation": ["PAN Biblioteka Kórnicka"],
 				"dc_rights": [
 					"PAN Biblioteka Kórnicka",
 					"Jasiński, Tomasz",
@@ -1291,9 +958,7 @@
 				],
 				"tech_modificationInDataSourceDate": "2020-03-03T12:11:53.738Z",
 				"dcterms_accessRights": "Dostęp otwarty",
-				"plmet_locationOfPhysicalObject": [
-					"PAN Biblioteka Kórnicka"
-				],
+				"plmet_locationOfPhysicalObject": ["PAN Biblioteka Kórnicka"],
 				"dcterms_license": "http://rightsstatements.org/vocab/InC/1.0/",
 				"europeana_type": "TEXT",
 				"dc_description": [
@@ -1305,21 +970,14 @@
 					"PAN Biblioteka Kórnicka",
 					"Jasiński, Tomasz"
 				],
-				"dc_type": [
-					"fiszka"
-				],
+				"dc_type": ["fiszka"],
 				"tech_dateOfIndexing": "2020-03-03T12:11:53.816Z",
 				"score": 8.501872
 			},
 			{
 				"tech_type": "rękopis",
-				"dc_format": [
-					"image/vnd.djvu"
-				],
-				"dc_language": [
-					"pol",
-					"lat"
-				],
+				"dc_format": ["image/vnd.djvu"],
+				"dc_language": ["pol", "lat"],
 				"tech_objectId": "oai:www.wbc.poznan.pl:280640",
 				"tech_sourceId": "http://www.wbc.poznan.pl/dlibra/oai-pmh-repository.xml",
 				"dc_subject": [
@@ -1329,18 +987,12 @@
 				],
 				"europeana_rights": "http://www.europeana.eu/rights/rr-f/",
 				"id": "nnwp0l0",
-				"dc_title": [
-					"Anna"
-				],
+				"dc_title": ["Anna"],
 				"tech_sourceObjectAppearanceDate": "2019-12-17T12:37:20.625Z",
 				"europeana_dataProvider": "Wielkopolska Biblioteka Cyfrowa",
-				"dc_creator": [
-					"Jasiński, Kazimierz (1920 - 1997)"
-				],
+				"dc_creator": ["Jasiński, Kazimierz (1920 - 1997)"],
 				"tech_plannedPublication": false,
-				"plmet_digitisation": [
-					"PAN Biblioteka Kórnicka"
-				],
+				"plmet_digitisation": ["PAN Biblioteka Kórnicka"],
 				"dc_rights": [
 					"PAN Biblioteka Kórnicka",
 					"Jasiński, Tomasz",
@@ -1350,9 +1002,7 @@
 				],
 				"tech_modificationInDataSourceDate": "2020-03-03T12:11:56.837Z",
 				"dcterms_accessRights": "Dostęp otwarty",
-				"plmet_locationOfPhysicalObject": [
-					"PAN Biblioteka Kórnicka"
-				],
+				"plmet_locationOfPhysicalObject": ["PAN Biblioteka Kórnicka"],
 				"dcterms_license": "http://rightsstatements.org/vocab/InC/1.0/",
 				"europeana_type": "TEXT",
 				"dc_description": [
@@ -1364,21 +1014,14 @@
 					"PAN Biblioteka Kórnicka",
 					"Jasiński, Tomasz"
 				],
-				"dc_type": [
-					"fiszka"
-				],
+				"dc_type": ["fiszka"],
 				"tech_dateOfIndexing": "2020-03-03T12:11:56.945Z",
 				"score": 8.501872
 			},
 			{
 				"tech_type": "rękopis",
-				"dc_format": [
-					"image/vnd.djvu"
-				],
-				"dc_language": [
-					"pol",
-					"lat"
-				],
+				"dc_format": ["image/vnd.djvu"],
+				"dc_language": ["pol", "lat"],
 				"tech_objectId": "oai:www.wbc.poznan.pl:280642",
 				"tech_sourceId": "http://www.wbc.poznan.pl/dlibra/oai-pmh-repository.xml",
 				"dc_subject": [
@@ -1388,18 +1031,12 @@
 				],
 				"europeana_rights": "http://www.europeana.eu/rights/rr-f/",
 				"id": "nnwp0z6",
-				"dc_title": [
-					"Anna"
-				],
+				"dc_title": ["Anna"],
 				"tech_sourceObjectAppearanceDate": "2019-12-17T12:37:24.923Z",
 				"europeana_dataProvider": "Wielkopolska Biblioteka Cyfrowa",
-				"dc_creator": [
-					"Jasiński, Kazimierz (1920 - 1997)"
-				],
+				"dc_creator": ["Jasiński, Kazimierz (1920 - 1997)"],
 				"tech_plannedPublication": false,
-				"plmet_digitisation": [
-					"PAN Biblioteka Kórnicka"
-				],
+				"plmet_digitisation": ["PAN Biblioteka Kórnicka"],
 				"dc_rights": [
 					"PAN Biblioteka Kórnicka",
 					"Jasiński, Tomasz",
@@ -1409,9 +1046,7 @@
 				],
 				"tech_modificationInDataSourceDate": "2020-03-03T12:11:59.206Z",
 				"dcterms_accessRights": "Dostęp otwarty",
-				"plmet_locationOfPhysicalObject": [
-					"PAN Biblioteka Kórnicka"
-				],
+				"plmet_locationOfPhysicalObject": ["PAN Biblioteka Kórnicka"],
 				"dcterms_license": "http://rightsstatements.org/vocab/InC/1.0/",
 				"europeana_type": "TEXT",
 				"dc_description": [
@@ -1423,21 +1058,14 @@
 					"PAN Biblioteka Kórnicka",
 					"Jasiński, Tomasz"
 				],
-				"dc_type": [
-					"fiszka"
-				],
+				"dc_type": ["fiszka"],
 				"tech_dateOfIndexing": "2020-03-03T12:11:59.282Z",
 				"score": 8.501872
 			},
 			{
 				"tech_type": "rękopis",
-				"dc_format": [
-					"image/vnd.djvu"
-				],
-				"dc_language": [
-					"pol",
-					"lat"
-				],
+				"dc_format": ["image/vnd.djvu"],
+				"dc_language": ["pol", "lat"],
 				"tech_objectId": "oai:www.wbc.poznan.pl:280656",
 				"tech_sourceId": "http://www.wbc.poznan.pl/dlibra/oai-pmh-repository.xml",
 				"dc_subject": [
@@ -1447,18 +1075,12 @@
 				],
 				"europeana_rights": "http://www.europeana.eu/rights/rr-f/",
 				"id": "nnwp0qc",
-				"dc_title": [
-					"Anna"
-				],
+				"dc_title": ["Anna"],
 				"tech_sourceObjectAppearanceDate": "2019-12-17T12:37:30.26Z",
 				"europeana_dataProvider": "Wielkopolska Biblioteka Cyfrowa",
-				"dc_creator": [
-					"Jasiński, Kazimierz (1920 - 1997)"
-				],
+				"dc_creator": ["Jasiński, Kazimierz (1920 - 1997)"],
 				"tech_plannedPublication": false,
-				"plmet_digitisation": [
-					"PAN Biblioteka Kórnicka"
-				],
+				"plmet_digitisation": ["PAN Biblioteka Kórnicka"],
 				"dc_rights": [
 					"PAN Biblioteka Kórnicka",
 					"Jasiński, Tomasz",
@@ -1468,9 +1090,7 @@
 				],
 				"tech_modificationInDataSourceDate": "2020-03-03T12:12:02.234Z",
 				"dcterms_accessRights": "Dostęp otwarty",
-				"plmet_locationOfPhysicalObject": [
-					"PAN Biblioteka Kórnicka"
-				],
+				"plmet_locationOfPhysicalObject": ["PAN Biblioteka Kórnicka"],
 				"dcterms_license": "http://rightsstatements.org/vocab/InC/1.0/",
 				"europeana_type": "TEXT",
 				"dc_description": [
@@ -1482,21 +1102,14 @@
 					"PAN Biblioteka Kórnicka",
 					"Jasiński, Tomasz"
 				],
-				"dc_type": [
-					"fiszka"
-				],
+				"dc_type": ["fiszka"],
 				"tech_dateOfIndexing": "2020-03-03T12:12:02.314Z",
 				"score": 8.501872
 			},
 			{
 				"tech_type": "rękopis",
-				"dc_format": [
-					"image/vnd.djvu"
-				],
-				"dc_language": [
-					"pol",
-					"lat"
-				],
+				"dc_format": ["image/vnd.djvu"],
+				"dc_language": ["pol", "lat"],
 				"tech_objectId": "oai:www.wbc.poznan.pl:304862",
 				"tech_sourceId": "http://www.wbc.poznan.pl/dlibra/oai-pmh-repository.xml",
 				"dc_subject": [
@@ -1506,18 +1119,12 @@
 				],
 				"europeana_rights": "http://www.europeana.eu/rights/rr-f/",
 				"id": "nnw4krw",
-				"dc_title": [
-					"Anna"
-				],
+				"dc_title": ["Anna"],
 				"tech_sourceObjectAppearanceDate": "2019-12-17T12:44:01.062Z",
 				"europeana_dataProvider": "Wielkopolska Biblioteka Cyfrowa",
-				"dc_creator": [
-					"Jasiński, Kazimierz (1920 - 1997)"
-				],
+				"dc_creator": ["Jasiński, Kazimierz (1920 - 1997)"],
 				"tech_plannedPublication": false,
-				"plmet_digitisation": [
-					"PAN Biblioteka Kórnicka"
-				],
+				"plmet_digitisation": ["PAN Biblioteka Kórnicka"],
 				"dc_rights": [
 					"PAN Biblioteka Kórnicka",
 					"Jasiński, Tomasz",
@@ -1527,14 +1134,10 @@
 				],
 				"tech_modificationInDataSourceDate": "2020-03-03T12:15:58.904Z",
 				"dcterms_accessRights": "Dostęp otwarty",
-				"plmet_locationOfPhysicalObject": [
-					"PAN Biblioteka Kórnicka"
-				],
+				"plmet_locationOfPhysicalObject": ["PAN Biblioteka Kórnicka"],
 				"dcterms_license": "http://rightsstatements.org/vocab/InC/1.0/",
 				"europeana_type": "TEXT",
-				"dcterms_alternative": [
-					"T. II"
-				],
+				"dcterms_alternative": ["T. II"],
 				"dc_description": [
 					"z księgozbioru profesora Tomasza Jasińskiego"
 				],
@@ -1544,114 +1147,66 @@
 					"PAN Biblioteka Kórnicka",
 					"Jasiński, Tomasz"
 				],
-				"dc_type": [
-					"fiszka"
-				],
+				"dc_type": ["fiszka"],
 				"tech_dateOfIndexing": "2020-03-03T12:20:38.463Z",
 				"score": 8.501872
 			},
 			{
 				"tech_type": "książka",
-				"dc_format": [
-					"image/text"
-				],
-				"dc_language": [
-					"ita",
-					"pol"
-				],
+				"dc_format": ["image/text"],
+				"dc_language": ["ita", "pol"],
 				"tech_objectId": "oai:polona.pl:129442900",
-				"date": [
-					"1900-01-01T00:00:00Z"
-				],
+				"date": ["1900-01-01T00:00:00Z"],
 				"tech_sourceId": "https://www.polona.pl/oai/OAIHandler",
 				"europeana_rights": "http://creativecommons.org/publicdomain/mark/1.0/",
 				"id": "nhSWksl",
-				"dc_title": [
-					"Anna"
-				],
-				"dc_identifier": [
-					"http://polona.pl/item/129442900"
-				],
+				"dc_title": ["Anna"],
+				"dc_identifier": ["http://polona.pl/item/129442900"],
 				"tech_sourceObjectAppearanceDate": "2021-07-08T02:51:14.191Z",
 				"europeana_dataProvider": "CBN Polona",
-				"dc_creator": [
-					"Sienkiewicz, Henryk (1846-1916)"
-				],
-				"dc_date": [
-					"1900"
-				],
+				"dc_creator": ["Sienkiewicz, Henryk (1846-1916)"],
+				"dc_date": ["1900"],
 				"tech_plannedPublication": false,
 				"dc_rights": [
 					"Domena Publiczna. Wolno zwielokrotniać, zmieniać i rozpowszechniać oraz wykonywać utwór, nawet w celach komercyjnych, bez konieczności pytania o zgodę. Wykorzystując utwór należy pamiętać o poszanowaniu autorskich praw osobistych Twórcy.",
 					"http://creativecommons.org/publicdomain/mark/1.0"
 				],
-				"dc_source": [
-					"Biblioteka Narodowa"
-				],
+				"dc_source": ["Biblioteka Narodowa"],
 				"tech_modificationInDataSourceDate": "2021-07-08T02:51:14.254Z",
 				"dcterms_accessRights": "Dostęp otwarty",
-				"dc_coverage": [
-					"1801-1900"
-				],
+				"dc_coverage": ["1801-1900"],
 				"dcterms_license": "http://creativecommons.org/publicdomain/mark/1.0/",
 				"europeana_type": "TEXT",
-				"dc_contributor": [
-					"Zucconi, Tito (1837-1924) Tł."
-				],
-				"dc_description": [
-					"opowiadanie polskie"
-				],
-				"dc_publisher": [
-					"Firenze : A. Salani, 1900."
-				],
+				"dc_contributor": ["Zucconi, Tito (1837-1924) Tł."],
+				"dc_description": ["opowiadanie polskie"],
+				"dc_publisher": ["Firenze : A. Salani, 1900."],
 				"tech_url": "http://polona.pl/item/129442900/",
 				"tech_lastUpdateDate": "2021-07-08T02:51:14.254Z",
-				"dc_type": [
-					"książka"
-				],
+				"dc_type": ["książka"],
 				"single_date": "1900-01-01T00:00:00Z",
 				"tech_dateOfIndexing": "2021-07-08T02:52:10.329Z",
 				"score": 8.501872
 			},
 			{
 				"tech_type": "książka",
-				"dc_format": [
-					"application/pdf"
-				],
-				"dc_language": [
-					"pol"
-				],
+				"dc_format": ["application/pdf"],
+				"dc_language": ["pol"],
 				"tech_objectId": "oai:zbc.uz.zgora.pl:45086",
-				"date": [
-					"2015-01-01T00:00:00Z"
-				],
+				"date": ["2015-01-01T00:00:00Z"],
 				"tech_sourceId": "http://zbc.uz.zgora.pl/dlibra/oai-pmh-repository.xml",
-				"dc_subject": [
-					"poezja polska",
-					"21 w."
-				],
+				"dc_subject": ["poezja polska", "21 w."],
 				"europeana_rights": "http://rightsstatements.org/vocab/InC/1.0/",
 				"id": "nnqzWV4",
-				"dc_title": [
-					"Anna"
-				],
+				"dc_title": ["Anna"],
 				"tech_sourceObjectAppearanceDate": "2022-01-10T15:01:01.155Z",
 				"europeana_dataProvider": "Zielonogórska Biblioteka Cyfrowa",
-				"dc_creator": [
-					"Szott"
-				],
+				"dc_creator": ["Szott"],
 				"tech_plannedPublication": false,
-				"dc_date": [
-					"2015"
-				],
-				"dc_rights": [
-					"Biblioteka Uniwersytetu Zielonogórskiego"
-				],
+				"dc_date": ["2015"],
+				"dc_rights": ["Biblioteka Uniwersytetu Zielonogórskiego"],
 				"tech_modificationInDataSourceDate": "2022-01-13T12:24:34.684Z",
 				"dcterms_accessRights": "Dostęp otwarty",
-				"plmet_callNumber": [
-					"226042"
-				],
+				"plmet_callNumber": ["226042"],
 				"dcterms_license": "http://rightsstatements.org/vocab/InC/1.0/",
 				"europeana_type": "TEXT",
 				"dc_publisher": [
@@ -1659,22 +1214,16 @@
 				],
 				"tech_url": "https://zbc.uz.zgora.pl/dlibra/doccontent?id=45086",
 				"tech_lastUpdateDate": "2022-01-13T12:24:34.684Z",
-				"dc_type": [
-					"książka"
-				],
+				"dc_type": ["książka"],
 				"single_date": "2015-01-01T00:00:00Z",
 				"tech_dateOfIndexing": "2022-01-13T12:24:34.927Z",
 				"score": 8.501872
 			},
 			{
 				"tech_type": "zdjęcie",
-				"dc_format": [
-					"image/jpeg"
-				],
+				"dc_format": ["image/jpeg"],
 				"tech_objectId": "oai:biblioteka.teatrnn.pl:19883",
-				"date": [
-					"1938-01-01T00:00:00Z"
-				],
+				"date": ["1938-01-01T00:00:00Z"],
 				"tech_sourceId": "http://biblioteka.teatrnn.pl/dlibra/dlibra/oai-pmh-repository.xml",
 				"dc_subject": [
 					"Langfus, Anna (1920-1966)",
@@ -1684,21 +1233,13 @@
 				],
 				"europeana_rights": "http://rightsstatements.org/vocab/InC/1.0/",
 				"id": "nnmR553",
-				"dc_title": [
-					"Anna Szternfinkiel (Anna Langfus)"
-				],
+				"dc_title": ["Anna Szternfinkiel (Anna Langfus)"],
 				"tech_sourceObjectAppearanceDate": "2021-06-01T05:55:33.964Z",
 				"europeana_dataProvider": "Biblioteka Multimedialna Teatru NN",
-				"dc_creator": [
-					"Hartwig, Edward (1909-2003)"
-				],
+				"dc_creator": ["Hartwig, Edward (1909-2003)"],
 				"tech_plannedPublication": false,
-				"dc_date": [
-					"1938"
-				],
-				"dc_source": [
-					"zbiory prywatne"
-				],
+				"dc_date": ["1938"],
+				"dc_source": ["zbiory prywatne"],
 				"tech_modificationInDataSourceDate": "2021-06-01T06:26:48.806Z",
 				"dcterms_accessRights": "Dostęp otwarty",
 				"dcterms_license": "http://rightsstatements.org/vocab/InC/1.0/",
@@ -1708,22 +1249,16 @@
 				],
 				"tech_url": "https://biblioteka.teatrnn.pl/dlibra/doccontent?id=19883",
 				"tech_lastUpdateDate": "2021-06-01T06:26:48.806Z",
-				"dc_type": [
-					"fotografia"
-				],
+				"dc_type": ["fotografia"],
 				"single_date": "1938-01-01T00:00:00Z",
 				"tech_dateOfIndexing": "2021-06-01T06:36:31.976Z",
 				"score": 6.011731
 			},
 			{
 				"tech_type": "fotografia",
-				"dc_format": [
-					"image/jpeg"
-				],
+				"dc_format": ["image/jpeg"],
 				"tech_objectId": "oai:bikop.eu:2462",
-				"date": [
-					"1935-01-01T00:00:00Z"
-				],
+				"date": ["1935-01-01T00:00:00Z"],
 				"tech_sourceId": "http://bikop.eu/dlibra/oai-pmh-repository.xml",
 				"dc_subject": [
 					"dziecko",
@@ -1741,23 +1276,15 @@
 				],
 				"europeana_rights": "http://www.europeana.eu/rights/rr-f/",
 				"id": "nn5Xs5z",
-				"dc_title": [
-					"Anna Danielewicz"
-				],
+				"dc_title": ["Anna Danielewicz"],
 				"tech_sourceObjectAppearanceDate": "2015-11-21T04:53:01.627Z",
 				"europeana_dataProvider": "Biblioteka Kolekcji Prywatnych",
 				"tech_plannedPublication": false,
-				"dcterms_abstract": [
-					"awers"
-				],
-				"dc_date": [
-					"1935"
-				],
+				"dcterms_abstract": ["awers"],
+				"dc_date": ["1935"],
 				"tech_modificationInDataSourceDate": "2016-05-06T07:10:56.987Z",
 				"dcterms_accessRights": "Dostęp otwarty",
-				"plmet_locationOfPhysicalObject": [
-					"Bogłowska Anna"
-				],
+				"plmet_locationOfPhysicalObject": ["Bogłowska Anna"],
 				"dcterms_license": "Prawa zastrzeżone",
 				"europeana_type": "IMAGE",
 				"dc_description": [
@@ -1766,25 +1293,17 @@
 				],
 				"tech_url": "http://bikop.eu/dlibra/doccontent?id=2462",
 				"tech_lastUpdateDate": "2016-05-06T07:10:56.987Z",
-				"dc_type": [
-					"zdjęcie"
-				],
+				"dc_type": ["zdjęcie"],
 				"single_date": "1935-01-01T00:00:00Z",
 				"tech_dateOfIndexing": "2017-11-07T04:44:13.429Z",
 				"score": 5.31367
 			},
 			{
 				"tech_type": "Inny",
-				"dc_format": [
-					"image/vnd.djvu"
-				],
-				"dc_language": [
-					"pol"
-				],
+				"dc_format": ["image/vnd.djvu"],
+				"dc_language": ["pol"],
 				"tech_objectId": "oai:dlibra.karta.org.pl:18526",
-				"date": [
-					"1955-01-01T00:00:00Z"
-				],
+				"date": ["1955-01-01T00:00:00Z"],
 				"tech_sourceId": "http://www.dlibra.karta.org.pl/dlibra/oai-pmh-repository.xml",
 				"dc_subject": [
 					"kobiety",
@@ -1798,24 +1317,14 @@
 				],
 				"europeana_rights": "http://www.europeana.eu/rights/rr-f/",
 				"id": "nnfbgg5",
-				"dc_title": [
-					"Anna Szyszko."
-				],
+				"dc_title": ["Anna Szyszko."],
 				"tech_sourceObjectAppearanceDate": "2016-04-15T10:59:06.327Z",
 				"europeana_dataProvider": "Biblioteka Cyfrowa Ośrodka KARTA",
-				"dc_creator": [
-					"ERROR"
-				],
+				"dc_creator": ["ERROR"],
 				"tech_plannedPublication": false,
-				"dc_date": [
-					"1955 - 1956"
-				],
-				"dc_rights": [
-					"Fundacja Ośrodka KARTA"
-				],
-				"dc_source": [
-					"4"
-				],
+				"dc_date": ["1955 - 1956"],
+				"dc_rights": ["Fundacja Ośrodka KARTA"],
+				"dc_source": ["4"],
 				"tech_modificationInDataSourceDate": "2016-04-15T11:08:51.067Z",
 				"dcterms_accessRights": "Dostęp otwarty",
 				"dcterms_license": "Prawa zastrzeżone",
@@ -1823,9 +1332,7 @@
 				"dc_description": [
 					"Fot. Bernard Grzywacz. Fotografia z kolekcji ponad 400 zdjęć wykonanych przez Bernarda Grzywacza w latach 1955-1957, po zwolnieniu z łagru. Zbiory Ośrodka KARTA, kolekcję udostępniły: Hanna Grzywacz i Bogusława Matuszewska."
 				],
-				"dc_publisher": [
-					"H. Grzywacz i B. Matuszewska"
-				],
+				"dc_publisher": ["H. Grzywacz i B. Matuszewska"],
 				"tech_url": "http://www.dlibra.karta.org.pl/dlibra/doccontent?id=18526",
 				"tech_lastUpdateDate": "2016-04-15T11:08:51.067Z",
 				"single_date": "1955-01-01T00:00:00Z",

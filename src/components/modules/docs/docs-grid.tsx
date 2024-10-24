@@ -1,10 +1,10 @@
 import Grid from '@mui/material/Grid2';
-import { Doc } from "./utils/docs-dal.ts";
-import { DocTile } from "./doc-tile.tsx";
+import { Doc } from './utils/docs-dal.ts';
+import { DocTile } from './doc-tile.tsx';
 
 type DocsGridProps = {
-	docs: Doc[]
-}
+	docs: Doc[];
+};
 
 export const DocsGrid = ({ docs }: DocsGridProps) => {
 	return (

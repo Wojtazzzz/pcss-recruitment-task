@@ -8,4 +8,4 @@ export const buildSearchParams = (newSearchParams: NewSearchParams) => {
 	}
 
 	return '?' + String(searchParams);
-}
+};

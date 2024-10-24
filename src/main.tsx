@@ -2,7 +2,7 @@ import { StrictMode } from 'react';
 import { createRoot } from 'react-dom/client';
 import { App } from './app.tsx';
 import './styles/index.css';
-import { createBrowserRouter, RouterProvider } from "react-router-dom";
+import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 
 const root = document.getElementById('root');
 
@@ -12,8 +12,8 @@ if (!root) {
 
 const router = createBrowserRouter([
 	{
-		path: "/",
-		element: <App/>,
+		path: '/',
+		element: <App />,
 	},
 ]);
 

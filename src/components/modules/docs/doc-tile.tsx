@@ -1,8 +1,8 @@
 import { styled } from '@mui/material/styles';
 import Paper from '@mui/material/Paper';
-import { Doc } from "./utils/docs-dal.ts";
-import Typography from "@mui/material/Typography";
-import { getAuthors, getTitles } from "./utils/functions.ts";
+import { Doc } from './utils/docs-dal.ts';
+import Typography from '@mui/material/Typography';
+import { getAuthors, getTitles } from './utils/functions.ts';
 
 const Item = styled(Paper)(({ theme }) => ({
 	backgroundColor: '#fff',
@@ -16,8 +16,8 @@ const Item = styled(Paper)(({ theme }) => ({
 }));
 
 type DocTileProps = {
-	doc: Doc
-}
+	doc: Doc;
+};
 
 export const DocTile = ({ doc }: DocTileProps) => {
 	const titles = getTitles(doc.title);
@@ -35,9 +35,7 @@ export const DocTile = ({ doc }: DocTileProps) => {
 				Tytuł(y): {titles}
 			</Typography>
 
-			<Typography variant="subtitle1">
-				Autor: {authors}
-			</Typography>
+			<Typography variant="subtitle1">Autor: {authors}</Typography>
 
 			<Typography variant="subtitle1">
 				Typ: {doc.document_type}

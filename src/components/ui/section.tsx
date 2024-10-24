@@ -1,13 +1,9 @@
-import { type ReactNode } from "react";
+import { type ReactNode } from 'react';
 
 type SectionProps = {
-	children: ReactNode
-}
+	children: ReactNode;
+};
 
 export const Section = ({ children }: SectionProps) => {
-	return (
-		<section className="section">
-			{children}
-		</section>
-	);
+	return <section className="section">{children}</section>;
 };

@@ -1,7 +1,7 @@
-import { useEffect, useState } from "react";
-import { DocsDal } from "./utils/docs-dal.ts";
-import { useSearchParams } from "../../hooks/useSearchParams.ts";
-import { useLocation } from "react-router-dom";
+import { useEffect, useState } from 'react';
+import { DocsDal } from './utils/docs-dal.ts';
+import { useSearchParams } from '../../hooks/useSearchParams.ts';
+import { useLocation } from 'react-router-dom';
 
 export const useGetDocs = () => {
 	const { getNumber } = useSearchParams();
@@ -18,9 +18,12 @@ export const useGetDocs = () => {
 		} else {
 			setDocs(DocsDal.getMappedDocs());
 		}
-	}, [location]);
+	}, [
+		// getNumber, - Maximum update depth exceeded.
+		location
+	]);
 
 	return {
 		docs,
-	}
-}
+	};
+};
