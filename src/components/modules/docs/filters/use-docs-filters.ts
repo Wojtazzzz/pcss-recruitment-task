@@ -1,7 +1,7 @@
-import { useSearchParams } from '../../../hooks/use-search-params.ts';
+import { useSearchParams } from '../../../../hooks/use-search-params.ts';
 import { type SyntheticEvent, useState } from 'react';
 import type { ChangeEvent } from 'react';
-import { buildSearchParams } from '../../../utils/functions.ts';
+import { buildSearchParams } from '../../../../utils/functions.ts';
 
 export const useDocsFilters = () => {
 	const { getString, setSearchParams } = useSearchParams();
