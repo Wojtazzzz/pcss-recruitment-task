@@ -1,13 +1,13 @@
 import { styled } from '@mui/material/styles';
 import Paper from '@mui/material/Paper';
-import { Doc } from './utils/docs-dal.ts';
+import { Doc } from '../utils/docs-dal.ts';
 import Typography from '@mui/material/Typography';
-import { getAuthors, getTitles } from './utils/functions.ts';
+import { getAuthors, getTitles } from '../utils/functions.ts';
 
 const Item = styled(Paper)(({ theme }) => ({
 	backgroundColor: '#fff',
 	...theme.typography.body2,
-	padding: theme.spacing(1),
+	padding: theme.spacing(3),
 	textAlign: 'center',
 	color: theme.palette.text.secondary,
 	...theme.applyStyles('dark', {

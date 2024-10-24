@@ -9,6 +9,11 @@ export type Doc = {
 	title: RawDoc['dc_title'];
 };
 
+export type DocKeywords = {
+	id: RawDoc['id'];
+	value: string;
+}
+
 export class DocsDal extends null {
 	static docs: RawDoc[];
 
