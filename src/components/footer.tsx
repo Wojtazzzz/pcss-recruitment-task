@@ -1,4 +1,3 @@
-import Toolbar from '@mui/material/Toolbar';
 import Typography from '@mui/material/Typography';
 import { Container } from './ui/container.tsx';
 
@@ -7,18 +6,17 @@ export const Footer = () => {
 
 	return (
 		<Container>
-			<Toolbar disableGutters>
 				<Typography
 					variant="subtitle1"
 					component="p"
 					sx={{
+						margin: 1,
 						fontWeight: 500,
 						textAlign: 'center',
 					}}
 				>
 					© Copyright {currentYear} Lorem Inc. All rights reserved.
 				</Typography>
-			</Toolbar>
 		</Container>
 	);
 };
