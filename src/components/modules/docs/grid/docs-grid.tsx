@@ -21,7 +21,10 @@ export const DocsGrid = ({ docs }: DocsGridProps) => {
 			<Grid container spacing={2}>
 				{docs.map((doc) => (
 					<Grid size={{ xs: 12, sm: 6, md: 3 }} key={doc.id}>
-						<ButtonBase onClick={() => open(doc.id)} aria-label="pokaż słowa kluczowe">
+						<ButtonBase onClick={() => open(doc.id)} aria-label="pokaż słowa kluczowe" sx={{
+							display: "block",
+							width: '100%',
+						}}>
 							<DocTile doc={doc} />
 						</ButtonBase>
 					</Grid>
